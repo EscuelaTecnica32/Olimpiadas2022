@@ -1,0 +1,171 @@
+nav {
+    background-color: rgba(0, 0, 0);
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    overflow: hidden;
+    z-index: 10;
+}
+
+label.logo {
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+
+nav ul {
+    float: right;
+    margin-right: 20px;
+}
+
+nav ul li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+
+nav ul li a {
+    color: white;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+a.active,
+a:hover {
+    background: #ffffff;
+    color: #000000;
+    transition: .5s;
+}
+
+.checkbtn {
+    font-size: 30px;
+    color: white;
+    float: right;
+    line-height: 80px;
+    margin-right: 10px;
+    cursor: pointer;
+    display: none;
+}
+
+.checkbtn #spn1,
+#spn2,
+#spn3 {
+    display: flex;
+    content: '';
+    background-color: rgb(255, 255, 255);
+    width: 30px;
+    height: 3px;
+    transition: all 400ms ease;
+    position: relative;
+}
+
+#spn2 {
+    margin-top: 8px;
+}
+
+#spn3 {
+    margin-top: 8px
+}
+
+#check {
+    display: none;
+}
+
+.sombraA {
+    box-shadow: 0px 0px 30px rgba(42, 43, 43, 0.644)
+}
+
+
+/*LOGO*/
+
+.imgLogo {
+    width: 150px;
+}
+
+@media (max-width: 1220px) {
+    label.logo {
+        font-size: 30px;
+        padding-left: 20px;
+    }
+    nav ul li a {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 467px) {
+    label.logo {
+        font-size: 25px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .imgLogo {
+        width: 90px;
+    }
+}
+
+@media (max-width: 311px) {
+    label.logo {
+        font-size: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .imgLogo {
+        width: 60px;
+    }
+}
+
+
+/*FIN DE LOGO*/
+
+@media (max-width: 1078px) {
+    .checkbtn {
+        display: block;
+    }
+    nav ul {
+        opacity: 0;
+        position: fixed;
+        overflow: hidden;
+        width: 100%;
+        height: 100%;
+        background-image: linear-gradient(-0deg, rgb(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.0) 0%, rgba(0, 0, 0, 0.8) 50%, rgba(0, 0, 0, 0.8) 100%);
+        margin-top: 78px;
+        top: -100%;
+        text-align: center;
+        transition: 1s;
+        z-index: -1;
+    }
+    nav ul li {
+        display: block;
+        margin: 50px 0;
+        line-height: 50px;
+    }
+    s nav ul li a {
+        margin-right: 30px;
+        font-size: 18px;
+    }
+    a:hover,
+    a.active {
+        background: #fff;
+        color: #000000;
+    }
+    #check:checked~ul {
+        opacity: 100%;
+        top: 0;
+    }
+    #check:checked~.checkbtn #spn1 {
+        transform: rotate(140deg);
+        top: 10px;
+    }
+    #check:checked~.checkbtn #spn2 {
+        opacity: 0;
+    }
+    #check:checked~.checkbtn #spn3 {
+        transform: rotate(-140deg);
+        top: -11px;
+    }
+}

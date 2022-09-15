@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Museum</title>
+    <link rel="icon" href="img/Logo2.ico">
+    <!--CSS-->
+    <link rel="stylesheet" href="Bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/estilos.css">
+    <link rel="stylesheet" href="css/navbar.css">
+
+
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <!--FIN DE CSS-->
+</head>
+<!--FIN DE BOTON DE WHATSAPP-->
+
+<body>
+    <header>
+        <nav>
+            <input type="checkbox" id="check">
+            <label for="check" class="checkbtn" style="margin-top:25px;">
+        <span id="spn1"></span>
+        <span id="spn2"></span>
+        <span id="spn3"></span>
+        </label>
+            <label class="logo" style="font-family:serif;"><img class="imgLogo"src="img/Logo.png" ></label>
+            <ul>
+                <li><a href="#inicio">Museo</a></li>
+                <li><a href="#nosotros">Exibición</a></li>
+                <li><a href="#servicios">Visita</a></li>
+
+                <!--MODO OSCURO
+            <li>
+                <label for="dark-mode" class="dark-mode-button">
+                    <input type="checkbox" id="dark-mode" onclick="document.documentElement.classList.toggle('dark-mode')">
+                    modo oscuro
+                </label>
+            </li>
+            FIN DE MODO OSCURO-->
+            </ul>
+        </nav>
+
+    </header>
+    <!--BANNER 1------------------------------------------------------------------------------------>
+    <div class="banner-image1 w-100 vh-100 d-flex justify-content-center align-items-center" id="inicio">
+        <div class="row" style="width: 100%;">
+            <center>
+                <div class="content text-center ">
+                        <img class="LogoInicio " src="img/Logo.png" data-aos="fade-down"  data-aos-duration="1000">
+                    <h2 class="TextInicio" style="font-family:serif;" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="500">
+                       Museum
+                    </h2>
+
+                    <i><h4 class="subTextInicio" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1000">Museo de Ciencias Naturales Argentino</h4></i>
+                </div>
+            </center>
+        </div>
+    </div>
+
+    <!--CONTENIDO 1 NOSOTROS---------------------------------------------------------->
+
+    <div class="cuadroTitulo border-bottom border-top">
+        <h1 class="titulos">Bienvenido</h1>
+    </div>
+
+    <!--CARROUSEL------------------------------------------------------------------------------------>
+
+    <div  id="galeria">
+
+    <div class="container grid-container" id="nosotros">
+
+        <div class="row align-items-center justify-content-md-center" >
+            <div class="col-md-12 grid1 cuadroText" data-aos="fade-right" data-aos-duration="1000" style="margin-bottom:20px;">
+                
+                <p>Su misión es contribuir al conocimiento de la naturaleza, el ser humano y su cultura, y difundir ese conocimiento por medio de tareas 
+                    de investigación y divulgación científica, exhibiciones, actividades educativas y visitas, en un marco de respeto 
+                    por el patrimonio natural y cultural de todos los pueblos.
+                </p>
+            </div>
+        </div>
+
+        <!--CONTENIDO 2 SERVICIOS----------------------------------------------------------------------------->
+
+        
+        <!------------------------------------
+        <div class="row align-items-center justify-content-md-center " style="margin-top: 40px;">
+            <div class="col-md-5 grid3" align="center" style="margin-bottom:20px;" data-aos="fade-right" data-aos-duration="1500">
+                <img src="img/img3.jpeg" width="250px" style="border-radius:15px ;">
+            </div>
+
+        ----------------------------------->
+    </div>
+        <!--Cosito lindo-->
+        <div class="FondoServicios" style="margin-top: 20px;" id="servicios"></div>
+        <!--FIN cosito lindo-->
+    <!--FIN DE CONTENIDO-->
+    <div class="cuadroTitulo border-bottom border-top">
+        <h1 class="titulos">Exhibiciones</h1>
+    </div>
+
+    <div class="row align-items-center justify-content-md-center" style="margin-top: 40px;">
+
+            <div class="col-md-13" data-aos="fade-up" data-aos-duration="1500">
+                <div id="carouselExampleControls" class="carousel slide carrusel" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="img/img2.jpeg" class="d-flex " alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="img/img2.jpg" class="d-flex " alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="img/img2.jpeg" class="d-flex" alt="...">
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                              <span class="visually-hidden">Previous</span>
+                            </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                              <span class="visually-hidden">Next</span>
+                            </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+    <!--FIN DE CONTENIDO---------------->
+    <div class="cuadroTitulo border-bottom border-top">
+        <h1 class="titulos">Visita</h1>
+    </div>
+    <!--CONTENIDO 4 CONTACTOS------------------------------------------------------------------------------------------->
+    <div class="container" style="margin-top: 50px;" id="contacto">
+        <div class="row justify-content-md-center">
+
+            <div class="col-md-5 cuadroText" style="margin-bottom:20px;" data-aos="fade-down" data-aos-duration="1500">
+                <center>
+                    <br>
+                    <h1 style="margin-bottom:-10px;"><i class="bi bi-clock-history"></i></h1>
+                    <h1 style="font-family:serif;">Horarios</h1>
+                    <ul class="nav flex-column">
+                        <li style="padding:10px;">
+                            <h3>Lunes a Viernes</h3>
+                            <h5>09hs a 21hs</h5>
+                        </li>
+                        <li style="padding:10px;">
+                            <h3>Sabado</h3>
+                            <h5>10hs a 14hs</h5>
+                        </li>
+                        <li style="padding:10px;">
+                            <h3>Domingo</h3>
+                            <h5>Cerrado</h5>
+                    </ul>
+                </center>
+            </div>
+            <div class="col-md-5" data-aos="fade-up" data-aos-duration="1500">
+                <div class="col-md-12">
+
+                </div>
+                <div class="col-md-12">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4643.910446001576!2d-58.43327876056775!3d-34.61072119644486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca429ee33ac3%3A0xbd02fb4e31da6cf4!2sPeluqueria_Taby!5e0!3m2!1ses-419!2sar!4v1658791118014!5m2!1ses-419!2sar"
+                        width="100%" height="620px" style="border-radius: 15px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--FOOTER-------------------------------------------------------------------------------------------------------------->
+    <div class="container " style="margin-top:40px; " data-aos="fadeIn" data-aos-delay="100" data-aos-duration="1500">
+        <footer class="row py-2 border-top ">
+            <div class="row footerB ">
+                <div class="col-md-4 " align="center ">
+                    <img src="img/Logo.png " style="width:100px ">
+                    <h3 style="font-family:serif; ">Museum</h3>
+                    <p style="margin-top:-10px; font-size: 0.8rem; ">Museo de Ciencias Naturales Argentino</p>
+                </div>
+
+                <div class="col-md-4 ">
+                    <h3 style="font-family:serif; margin: 15px 0px; ">Contacto</h3>
+                    <ul class="nav flex-column ">
+                        <li class="nav-item mb-2 "><i class="bi bi-envelope-open "></i> email@email.com</li>
+                        <li class="nav-item mb-2 "><i class="bi bi-whatsapp "></i> +54 9 1138949280</li>
+                        <li class="nav-item mb-2 "><i class="bi bi-geo-alt "></i> Río de Janeiro 316, CABA</li>
+                    </ul>
+                </div>
+
+                <div class="col mb-4 ">
+                    <h3 style="font-family:serif; margin-top: 15px; ">Seguinos</h3>
+                    <ul class="nav redes ">
+                        <div>
+                            <a class="btn btn-outline-light iconRedes"><i class="bi bi-facebook "></i></a>
+                            <a class="btn btn-outline-light iconRedes"><i class="bi bi-instagram "></i></a>
+                            <a class="btn btn-outline-light iconRedes"><i class="bi bi-twitter "></i></a>
+                        </div>
+                    </ul>
+                </div>
+            </div>
+        </footer>
+        <center>
+            <div class="col-md-11 ">
+                <div class="border-top ">
+                    <p style="opacity: 20%; margin-top: 3px; "><img src="img/Logo.png " style="width:100px "></p>
+                </div>
+            </div>
+        </center>
+    </div>
+
+
+</body>
+<!--JS-->
+<script src="Bootstrap/js/bootstrap.min.js "></script>
+<link rel="stylesheet " href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.0/font/bootstrap-icons.css ">
+<script src="js/navbar.js"></script>
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>
+
+<!--FIN DE JS-->
+
+</html>

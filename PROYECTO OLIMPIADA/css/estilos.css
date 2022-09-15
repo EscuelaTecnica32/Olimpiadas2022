@@ -1,0 +1,143 @@
+        body {
+            background-attachment: fixed;
+            font-family: 'Raleway', sans-serif;
+            background-color:  rgb(255, 255, 255);
+        }
+        
+        .banner-image1 {
+            background-image: linear-gradient(to top, rgba(8, 8, 8, 0.5) 0%, rgba(17, 17, 17, 0.5) 100%, rgba(62, 62, 63, 0.2) 100%, rgba(161, 161, 161, 0.2) 100%), url('../Img/img2.jpeg');
+            background-size: cover;
+            background-attachment: fixed;
+            z-index: 1;
+        }
+        
+        .titulos {
+            font-family: serif;
+            text-align: center;
+            font-size: 65px;
+            letter-spacing: 5px;
+        }
+        .cuadroTitulo {
+            margin: 35px 0;
+            padding: 40px 40px;
+        }
+        
+        .TextInicio {
+            font-size: 4rem;
+            color:white;
+        }
+        
+        .LogoInicio {
+            width: 400px;
+        }
+        
+        .subTextInicio {
+            font-size: 1.5rem;
+            color:white;
+
+        }
+        
+        .footerB {
+            margin: auto auto;
+            margin-top: 10px;
+        }
+        
+        .redes a {
+            margin: 20px 5px;
+            text-align: center;
+            width: 50px;
+            height: 50px;
+            font-size: 1.5rem;
+            border-radius: 50px;
+        }
+        
+        .cuadroText p{
+            font-family: 'Inter', sans-serif;
+            font-weight: normal;
+            font-style: italic;
+            font-size: 40px;
+        }
+        /* MODO OSCURO
+        
+        html.dark-mode {
+            transition: 1s;
+            filter: invert(100%)
+        }
+        
+        html.dark-mode img {
+            transition: 1s;
+            filter: invert(100%)
+        }
+        /*FIN DE MODO OSCURO*/
+        
+        @media (max-width: 1059px) {
+            .TextInicio {
+                font-size: 4rem;
+            }
+            .LogoInicio {
+                width: 300px;
+            }
+            .subTextInicio {
+                font-size: 1.3rem;
+            }
+        }
+        
+        .FondoServicios {
+            background-image:url('../Img/img2.jpeg');
+            background-size: cover;
+            background-attachment: fixed;
+            width: 100%;
+            height: 250px;
+        }
+        /*IMAGENES*/
+        
+        .carrusel {
+            border-radius: 20px;
+            height: 650px;
+        }
+        
+        .carrusel div img {
+            height: 650px;
+            margin: auto;
+            padding: 20px;
+            border-radius: 30px;
+        }
+        /*GRID CONTAINER FILAS Y COLUMNAS*/
+        
+        .grid1 {
+            grid-area: grid1;
+        }
+        
+        .grid2 {
+            grid-area: grid2;
+        }
+        
+        .grid3 {
+            grid-area: grid3;
+        }
+        
+        .grid4 {
+            grid-area: grid4;
+        }
+        
+        @media (max-width: 767px) {
+            .footerB {
+                text-align: center;
+            }
+            .redes div {
+                margin: auto auto;
+            }
+            .precios {
+                margin-top: -256px;
+            }
+            .grid3 {
+                margin-top: 20px;
+            }
+            .grid-container>* {
+                display: grid;
+                grid-template-areas: "grid1" "grid2" "grid4" "grid3";
+            }
+            .LogoInicio{
+                width: 200px;
+            }
+        }
