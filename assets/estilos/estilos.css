@@ -132,12 +132,9 @@ main{
     outline: none;
 
 }
-
-.logo{
-
+.logo {
     position: relative;
-    left: 37%;
-
+    left: 35%;
 }
 
 .container_login-register form button{
