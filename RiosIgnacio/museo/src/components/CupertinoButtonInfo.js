@@ -16,10 +16,11 @@ const styles = StyleSheet.create({
     alignItems: "center",
     flexDirection: "row",
     borderWidth: 1,
-    borderColor: "#000000"
+    borderRadius: 5,
+    borderColor: "#007AFF"
   },
   textInput: {
-    color: "#000000",
+    color: "#007AFF",
     fontSize: 17,
     height: 20,
     borderColor: "#000000"

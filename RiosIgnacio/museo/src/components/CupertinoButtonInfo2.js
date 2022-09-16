@@ -4,7 +4,7 @@ import { StyleSheet, TouchableOpacity, Text } from "react-native";
 function CupertinoButtonInfo2(props) {
   return (
     <TouchableOpacity style={[styles.container, props.style]}>
-      <Text style={styles.caption}>Iniciar sesion con Google</Text>
+      <Text style={styles.textInput} >Inciar Sesion con Google</Text>
     </TouchableOpacity>
   );
 }
@@ -15,13 +15,13 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
     flexDirection: "row",
-    borderRadius: 5,
-    paddingLeft: 16,
-    paddingRight: 16
+    borderRadius: 5
   },
-  caption: {
+  textInput: {
     color: "#fff",
-    fontSize: 17
+    fontSize: 17,
+    height: 20,
+    borderColor: "#000000"
   }
 });
 

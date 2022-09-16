@@ -32,10 +32,10 @@ const Login = (props) => {
           <CupertinoButtonInfo
             style={styles.cupertinoButtonInfo1}
           ></CupertinoButtonInfo>
+          <CupertinoButtonInfo2
+            style={styles.cupertinoButtonInfo2}
+          ></CupertinoButtonInfo2>
         </View>
-        <CupertinoButtonInfo2
-          style={styles.cupertinoButtonInfo2}
-        ></CupertinoButtonInfo2>
       </View>
     </View>
   );
@@ -118,15 +118,14 @@ const styles = StyleSheet.create({
     paddingBottom: 10
   },
   cupertinoButtonInfo2: {
-    height: 44,
-    width: 256,
     marginTop: 10,
-    marginBottom: 5
+    marginBottom: 5,
+    paddingTop: 10,
+    paddingBottom: 10
   },
   loremIpsumStack: {
     width: 256,
-    height: 44,
-    marginTop: 17,
+    marginTop: 17
   }
 });
 
