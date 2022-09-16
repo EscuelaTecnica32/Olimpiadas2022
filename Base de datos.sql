@@ -1,3 +1,18 @@
+
+
+
+/*
+La base de datos del momento la encontraras en su respectiva rama "DB"
+
+Este archivo no es eliminado por que soy incapaz de hacerlo, contrario al archivo de documentación que si me dejo eliminar, anda a saber porque este no me deja.
+
+Si puedo eliminarlo lo elimino, sino probablemente van a leer todo esto, o no porque les dio paja. 
+
+Saludos.
+*/
+
+
+
 -- phpMyAdmin SQL Dump
 -- version 4.8.4
 -- https://www.phpmyadmin.net/
