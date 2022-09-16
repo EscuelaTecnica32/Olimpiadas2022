@@ -1,55 +1,68 @@
-    .ct{
-        width:400px;
-        height:200px;
-        position:relative;
-        perspective: 1000;
-        -webkit-perspective: 1000;
-        left:calc(50% - 200px);
-        top:calc(50vh - 100px);
-    }
-  .c{
+body{
+    margin:0;
+    background-color:#010712;
+    background-image:url(https://static.pexels.com/photos/1526/dark-blur-blurred-gradient.jpg);
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    height:100vh;
+  }
+  .container{
+    width:400px;
+    height:200px;
+    position:relative;
+    perspective: 1000;
+    -webkit-perspective: 1000;
+    left:calc(50% - 200px);
+    top:calc(50vh - 100px);
+  }
+  .card{
+    width:100%;
+    height:100%;
     position:absolute;
     transform-style:preserve-3d;
     -webkit-transform-style:preserve-3d;
     transition:transform 1s ease;
     cursor:pointer;
   }
-  .back, .ft{
+  .back, .front{
     border-radius:6px;
     position:absolute;
-    
+    width:100%;
+    height:100%;
     transform-style:preserve-3d;
     -webkit-transform-style:preserve-3d;
-    
+  
     backface-visibility:hidden;
     -webkit-backface-visibility:hidden;
   }
-  .conft{
-    
-    float:left;
-    transform:translatez(60px);
-    -webkit-transform:translatez(60px);
-    
-    backface-visibility: hidden;
-    -webkit-backface-visibility: hidden;
-    
-    transform-style:preserve-3d;
-    -webkit-transform-style:preserve-3d;
-    
-  }
-  .confback{
+  .contentfront{
     width:100%;
     height:100%;
     float:left;
     transform:translatez(60px);
     -webkit-transform:translatez(60px);
-    
+  
     backface-visibility: hidden;
     -webkit-backface-visibility: hidden;
-    
+  
     transform-style:preserve-3d;
     -webkit-transform-style:preserve-3d;
-    
+  
+  }
+  .contentback{
+    width:100%;
+    height:100%;
+    float:left;
+    transform:translatez(60px);
+    -webkit-transform:translatez(60px);
+  
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+  
+    transform-style:preserve-3d;
+    -webkit-transform-style:preserve-3d;
+  
   }
   .back{
     transform:rotateY(180deg);
@@ -59,7 +72,7 @@
     -o-backface-visibility: hidden;
     backface-visibility: hidden;
   }
-  .ft{
+  .front{
     text-transform:uppercase;
     background-color:#232227;
     -webkit-backface-visibility: hidden;
@@ -67,7 +80,7 @@
     -o-backface-visibility: hidden;
     backface-visibility: hidden;
   }
-  .dt{
+  .date{
     height:100%;
     width:130px;
     float:left;
@@ -84,7 +97,7 @@
     transform:translatez(60px) scale(.9);
     -webkit-transform:translatez(60px) scale(.9);
   }
-  #dt{
+  #date{
     font-size:50px;
     color:#ECECE7;
     font-family: 'Montserrat', sans-serif;
@@ -111,7 +124,7 @@
     bottom:10px;
     right:0;
   }
-  .dt i:hover{
+  .date i:hover{
     color:#232227;
     transition:.3s ease;
   }
@@ -130,7 +143,7 @@
   }
   .whiteTr{
     color:#ECECE7;
-    
+  
   }
   .whiteTr th:hover{
     color:#E76642;
@@ -153,7 +166,7 @@
     left:calc(50% - 100px);
     top:calc(50vh - 200px);*/
   }
-  .backcon{
+  .backcontainer{
     transform-style:preserve-3d;
     width:calc(100% - 60px);
     height:calc(100% - 40px);
@@ -161,7 +174,7 @@
     margin-left:30px;
     margin-top:20px;
     /*transform:translatez(60px) scale();*/
-    
+  
     background-color:#E76642;
     border-radius:6px;
     padding:10px 30px;
