@@ -8,14 +8,151 @@
     font-family: 'Poppins', sans-serif;
 }
 
+/*HEADER*/
+body {
+    font-family: 'Poppins', sans-serif;
+}
 
+button:focus,
+.navbar-toggler:focus {
+  outline: none;
+  box-shadow: none;
+}
+/* tamaño de logo*/
+img.img{
+  position: relative;
+  width: 70px;
+  height: 70px;
+}
+.icono{
+  color:#fff
+}
+header {
+  background-color: #0979b0;
+}
+.navbar-brand {
+  font-size: 40px;
+  font-weight: 700;
+  color: #0979b0;
+  -webkit-text-stroke: #fff 1px;
+
+}
+
+.navbar-brand:hover {
+  color: #3F3B51;
+
+}
+
+.navbar-nav .nav-item {
+  margin: 0 10px;
+}
+
+.navbar-nav .nav-link {
+  font-size: 16px;
+  font-weight: 400;
+  color: #fff;
+  display: inline-block;
+}
+
+.dropdown-menu .dropdown-item {
+  margin-bottom: 10px;
+}
+
+.dropdown-menu .dropdown-item:hover {
+  background-color: #0979b0;
+  color: #fff;
+}
+
+.dropdown-mega .dropdown-menu {
+  width: 100%;
+}
+
+.dropdown-mega h5 {
+  padding-bottom: 12px;
+  border-bottom: 1px solid rgba(0, 0, 0, .125);
+  margin: 0;
+}
+
+.list-group-item {
+  font-size: 16px;
+  color: #0979b0;
+  border: 0;
+  border-bottom: 1px solid rgba(0, 0, 0, .125);
+  padding: 12px 0;
+}
+
+.list-group-item:hover {
+  color: #0979b0;
+}
+
+section {
+  height: 100vh;
+}
+footer a{
+  color: #0979b0;
+}
+/*Estilos tarjeta */
+
+.card {
+  position: relative;
+  top: 90px;
+}
+/* Modificacion de img */
+.team_wrapper .card{
+  padding:1.25rem;
+  transition: 0.5s;
+}
+.team_wrapper .card:hover{
+  -webkit-transform:translateY(-0.625rem);
+  transform:translateY(-0.625rem);
+}
+/*informacion*/
+#texto{
+  position: relative;
+  top:90px;
+}
+#im {
+  display:inline-block;
+  margin: 0 auto;
+  max-width: 100%;
+  width: 80%;
+  position: relative;
+  border-radius: 20px;
+
+}
+.con{
+  background-color: #0979b0;
+  position: relative;
+  top: 150px;
+  padding: 20px;
+}
+/*boton*/
+.btn {
+  background-color: #ffffff;
+  color: #0979b0;
+  border-radius: 20px;
+}
+/* Responsive */
+@media(max-width: 991.5px) {
+  .navbar-brand {
+    font-size: 30px
+  }
+
+  .navbar-nav .nav-item {
+    margin: 5px 10px;
+  }
+
+  form {
+    margin: 30px 0;
+  }
+}
 
 /*PORTADA*/
 .container-cover{
     width: 100%;
     height: 500px;
     position: relative;
-    margin-top: 80px;
+    margin-top: 0;
     background-image: url(./assets/imagenes/a.jfif);
     background-position: center;
     background-size: cover;
