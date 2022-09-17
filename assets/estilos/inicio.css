@@ -5,14 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
-    font-family: 'Poppins', sans-serif;
 }
-
-/*HEADER*/
-body {
-    font-family: 'Poppins', sans-serif;
-}
-
 button:focus,
 .navbar-toggler:focus {
   outline: none;
@@ -153,7 +146,7 @@ footer a{
     height: 500px;
     position: relative;
     margin-top: 0;
-    background-image: url(./assets/imagenes/a.jfif);
+    background-image: url(../imagenes/a.jfif);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

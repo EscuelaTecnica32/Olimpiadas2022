@@ -5,13 +5,9 @@
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
-    font-family: 'Poppins', sans-serif;
 }
 
 /*HEADER*/
-body {
-    font-family: 'Poppins', sans-serif;
-}
 
 button:focus,
 .navbar-toggler:focus {
@@ -230,7 +226,6 @@ footer a{
     top: 0;
     right: 22px;
     font-size: 50px;
-    font-weight: bolder;
     color: #ffffff;
 }
 
