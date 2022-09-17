@@ -149,18 +149,17 @@ footer a{
 
 /*TARJETAS*/
 .contenedor{
-    width: 100%;
-    height: 100vh;
     display: flex;
-    flex-wrap: wrap;
+    align-content: flex-end;
+    flex-wrap: nowrap;
     justify-content: center;
-    align-items: center;
-    background-color: #ffffff;
+    align-items:flex-start;
+    flex-direction: column;
 }
 
 .caja{
     width: 300px;
-    height:455px;
+    height: 225px;
     background-image: url(./assets/imagenes/foto8.jpg);
     border-radius: 5px;
     padding: 20px;
@@ -197,7 +196,6 @@ footer a{
     font-size: 17px;
     cursor: pointer;
     border-radius: 50px;
-    margin-top: 40px;
 }
 
 .caja button:hover{
@@ -229,8 +227,8 @@ footer a{
 
 .caja .count{
     position: absolute;
-    top: 15px;
-    right: 30px;
+    top: 0;
+    right: 22px;
     font-size: 50px;
     font-weight: bolder;
     color: #ffffff;

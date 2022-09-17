@@ -7,7 +7,8 @@
 }
 
 body{
-	background: #eeeff4;
+	background-color: #eeeff4;
+	height: 100vh;
 }
 dl, ol, ul {
     margin-top: 0;
@@ -16,6 +17,14 @@ dl, ol, ul {
 	color: #0979b0;
 	border-radius: 20px;
 
+}
+/*calendario*/
+.caleI{
+	width: 630px;
+	height: 350px;
+	position: relative;
+	bottom: 300px;
+	padding-left: 100px;
 }
 .bordel{
 	list-style: none;
@@ -57,7 +66,6 @@ dl, ol, ul {
 }
 
 .cards_wrap .card_inner{
-	background: #fff;
 	border-radius: 5px;
 	padding: 35px 20px;
 	min-width: 225px;
