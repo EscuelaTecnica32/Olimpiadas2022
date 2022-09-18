@@ -1,0 +1,4274 @@
+[
+    {
+        "id_turno": "1409",
+        "id_recorrido": "1",
+        "fecha": "2022-01-16",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1410",
+        "id_recorrido": "1",
+        "fecha": "2022-05-22",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1411",
+        "id_recorrido": "3",
+        "fecha": "2022-01-02",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1412",
+        "id_recorrido": "1",
+        "fecha": "2022-09-20",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1413",
+        "id_recorrido": "2",
+        "fecha": "2022-08-28",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1414",
+        "id_recorrido": "3",
+        "fecha": "2022-05-14",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1415",
+        "id_recorrido": "1",
+        "fecha": "2022-11-03",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1416",
+        "id_recorrido": "2",
+        "fecha": "2022-02-12",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1417",
+        "id_recorrido": "1",
+        "fecha": "2022-11-24",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1418",
+        "id_recorrido": "3",
+        "fecha": "2022-08-27",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1419",
+        "id_recorrido": "1",
+        "fecha": "2022-03-18",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1420",
+        "id_recorrido": "3",
+        "fecha": "2022-03-09",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1421",
+        "id_recorrido": "3",
+        "fecha": "2022-05-08",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1422",
+        "id_recorrido": "2",
+        "fecha": "2022-09-10",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1423",
+        "id_recorrido": "3",
+        "fecha": "2022-08-19",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1424",
+        "id_recorrido": "3",
+        "fecha": "2022-05-06",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1425",
+        "id_recorrido": "2",
+        "fecha": "2022-06-01",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1426",
+        "id_recorrido": "1",
+        "fecha": "2022-02-01",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1427",
+        "id_recorrido": "1",
+        "fecha": "2022-02-25",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1428",
+        "id_recorrido": "1",
+        "fecha": "2022-12-16",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1429",
+        "id_recorrido": "1",
+        "fecha": "2022-11-10",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1430",
+        "id_recorrido": "3",
+        "fecha": "2022-02-11",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1431",
+        "id_recorrido": "3",
+        "fecha": "2022-01-20",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1432",
+        "id_recorrido": "2",
+        "fecha": "2022-04-09",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1433",
+        "id_recorrido": "2",
+        "fecha": "2022-10-27",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1434",
+        "id_recorrido": "1",
+        "fecha": "2022-03-19",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1435",
+        "id_recorrido": "3",
+        "fecha": "2022-03-22",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1436",
+        "id_recorrido": "2",
+        "fecha": "2022-06-25",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1437",
+        "id_recorrido": "3",
+        "fecha": "2022-11-10",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1438",
+        "id_recorrido": "2",
+        "fecha": "2022-03-02",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1439",
+        "id_recorrido": "2",
+        "fecha": "2022-08-22",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1440",
+        "id_recorrido": "1",
+        "fecha": "2022-02-19",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1441",
+        "id_recorrido": "2",
+        "fecha": "2022-09-23",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1442",
+        "id_recorrido": "2",
+        "fecha": "2022-08-16",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1443",
+        "id_recorrido": "1",
+        "fecha": "2022-06-25",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1444",
+        "id_recorrido": "2",
+        "fecha": "2022-04-21",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1445",
+        "id_recorrido": "1",
+        "fecha": "2022-05-20",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1446",
+        "id_recorrido": "2",
+        "fecha": "2022-08-03",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1447",
+        "id_recorrido": "2",
+        "fecha": "2022-02-08",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1448",
+        "id_recorrido": "1",
+        "fecha": "2022-07-17",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1449",
+        "id_recorrido": "2",
+        "fecha": "2022-02-27",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1450",
+        "id_recorrido": "3",
+        "fecha": "2022-03-23",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1451",
+        "id_recorrido": "2",
+        "fecha": "2022-05-25",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1452",
+        "id_recorrido": "2",
+        "fecha": "2022-07-06",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1453",
+        "id_recorrido": "3",
+        "fecha": "2022-04-10",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1454",
+        "id_recorrido": "3",
+        "fecha": "2022-08-22",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1455",
+        "id_recorrido": "1",
+        "fecha": "2022-10-14",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1456",
+        "id_recorrido": "2",
+        "fecha": "2022-10-19",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1457",
+        "id_recorrido": "1",
+        "fecha": "2022-10-17",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1458",
+        "id_recorrido": "2",
+        "fecha": "2022-07-11",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1459",
+        "id_recorrido": "1",
+        "fecha": "2022-01-06",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1460",
+        "id_recorrido": "3",
+        "fecha": "2022-08-02",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1461",
+        "id_recorrido": "1",
+        "fecha": "2022-12-27",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1462",
+        "id_recorrido": "3",
+        "fecha": "2022-03-27",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1463",
+        "id_recorrido": "1",
+        "fecha": "2022-11-13",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1464",
+        "id_recorrido": "3",
+        "fecha": "2022-08-11",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1465",
+        "id_recorrido": "2",
+        "fecha": "2022-11-04",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1466",
+        "id_recorrido": "2",
+        "fecha": "2022-08-27",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1467",
+        "id_recorrido": "1",
+        "fecha": "2022-08-24",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1468",
+        "id_recorrido": "1",
+        "fecha": "2022-12-21",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1469",
+        "id_recorrido": "2",
+        "fecha": "2022-04-18",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1470",
+        "id_recorrido": "3",
+        "fecha": "2022-05-18",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1471",
+        "id_recorrido": "1",
+        "fecha": "2022-04-03",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1472",
+        "id_recorrido": "2",
+        "fecha": "2022-12-25",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1473",
+        "id_recorrido": "3",
+        "fecha": "2022-07-11",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1474",
+        "id_recorrido": "2",
+        "fecha": "2022-12-25",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1475",
+        "id_recorrido": "3",
+        "fecha": "2022-01-09",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1476",
+        "id_recorrido": "1",
+        "fecha": "2022-01-04",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1477",
+        "id_recorrido": "3",
+        "fecha": "2022-12-14",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1478",
+        "id_recorrido": "1",
+        "fecha": "2022-12-05",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1479",
+        "id_recorrido": "3",
+        "fecha": "2022-12-03",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1480",
+        "id_recorrido": "3",
+        "fecha": "2022-08-14",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1481",
+        "id_recorrido": "2",
+        "fecha": "2022-05-20",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1482",
+        "id_recorrido": "1",
+        "fecha": "2022-04-16",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1483",
+        "id_recorrido": "1",
+        "fecha": "2022-01-20",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1484",
+        "id_recorrido": "2",
+        "fecha": "2022-07-06",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1485",
+        "id_recorrido": "1",
+        "fecha": "2022-08-27",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1486",
+        "id_recorrido": "3",
+        "fecha": "2022-06-18",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1487",
+        "id_recorrido": "3",
+        "fecha": "2022-12-14",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1488",
+        "id_recorrido": "3",
+        "fecha": "2022-02-12",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1489",
+        "id_recorrido": "2",
+        "fecha": "2022-03-10",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1490",
+        "id_recorrido": "1",
+        "fecha": "2022-10-07",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1491",
+        "id_recorrido": "3",
+        "fecha": "2022-02-06",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1492",
+        "id_recorrido": "1",
+        "fecha": "2022-09-18",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1493",
+        "id_recorrido": "3",
+        "fecha": "2022-01-01",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1494",
+        "id_recorrido": "2",
+        "fecha": "2022-04-27",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1495",
+        "id_recorrido": "2",
+        "fecha": "2022-09-23",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1496",
+        "id_recorrido": "2",
+        "fecha": "2022-06-24",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1497",
+        "id_recorrido": "1",
+        "fecha": "2022-08-10",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1498",
+        "id_recorrido": "2",
+        "fecha": "2022-11-16",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1499",
+        "id_recorrido": "3",
+        "fecha": "2022-08-12",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1500",
+        "id_recorrido": "3",
+        "fecha": "2022-05-24",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1501",
+        "id_recorrido": "2",
+        "fecha": "2022-12-27",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1502",
+        "id_recorrido": "2",
+        "fecha": "2022-05-16",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1503",
+        "id_recorrido": "3",
+        "fecha": "2022-07-24",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1504",
+        "id_recorrido": "1",
+        "fecha": "2022-04-11",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1505",
+        "id_recorrido": "2",
+        "fecha": "2022-02-14",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1506",
+        "id_recorrido": "3",
+        "fecha": "2022-07-14",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1507",
+        "id_recorrido": "3",
+        "fecha": "2022-05-02",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1508",
+        "id_recorrido": "2",
+        "fecha": "2022-12-13",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1509",
+        "id_recorrido": "1",
+        "fecha": "2022-05-07",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1510",
+        "id_recorrido": "2",
+        "fecha": "2022-07-15",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1511",
+        "id_recorrido": "2",
+        "fecha": "2022-04-19",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1512",
+        "id_recorrido": "2",
+        "fecha": "2022-02-08",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1513",
+        "id_recorrido": "2",
+        "fecha": "2022-09-16",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1514",
+        "id_recorrido": "2",
+        "fecha": "2022-02-14",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1515",
+        "id_recorrido": "1",
+        "fecha": "2022-01-16",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1516",
+        "id_recorrido": "3",
+        "fecha": "2022-11-09",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1517",
+        "id_recorrido": "2",
+        "fecha": "2022-09-03",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1518",
+        "id_recorrido": "2",
+        "fecha": "2022-03-25",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1519",
+        "id_recorrido": "1",
+        "fecha": "2022-09-19",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1520",
+        "id_recorrido": "1",
+        "fecha": "2022-06-28",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1521",
+        "id_recorrido": "1",
+        "fecha": "2022-06-04",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1522",
+        "id_recorrido": "2",
+        "fecha": "2022-06-27",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1523",
+        "id_recorrido": "3",
+        "fecha": "2022-07-26",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1524",
+        "id_recorrido": "3",
+        "fecha": "2022-02-26",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1525",
+        "id_recorrido": "1",
+        "fecha": "2022-04-07",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1526",
+        "id_recorrido": "1",
+        "fecha": "2022-01-11",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1527",
+        "id_recorrido": "3",
+        "fecha": "2022-10-23",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1528",
+        "id_recorrido": "2",
+        "fecha": "2022-12-10",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1529",
+        "id_recorrido": "3",
+        "fecha": "2022-08-11",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1530",
+        "id_recorrido": "2",
+        "fecha": "2022-11-16",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1531",
+        "id_recorrido": "2",
+        "fecha": "2022-05-05",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1532",
+        "id_recorrido": "1",
+        "fecha": "2022-01-26",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1533",
+        "id_recorrido": "3",
+        "fecha": "2022-09-24",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1534",
+        "id_recorrido": "3",
+        "fecha": "2022-02-28",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1535",
+        "id_recorrido": "3",
+        "fecha": "2022-06-28",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1536",
+        "id_recorrido": "1",
+        "fecha": "2022-03-16",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1537",
+        "id_recorrido": "2",
+        "fecha": "2022-05-28",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1538",
+        "id_recorrido": "3",
+        "fecha": "2022-08-10",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1539",
+        "id_recorrido": "1",
+        "fecha": "2022-03-09",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1540",
+        "id_recorrido": "2",
+        "fecha": "2022-06-12",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1541",
+        "id_recorrido": "2",
+        "fecha": "2022-09-28",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1542",
+        "id_recorrido": "1",
+        "fecha": "2022-07-01",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1543",
+        "id_recorrido": "1",
+        "fecha": "2022-07-08",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1544",
+        "id_recorrido": "1",
+        "fecha": "2022-12-22",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1545",
+        "id_recorrido": "3",
+        "fecha": "2022-10-20",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1546",
+        "id_recorrido": "1",
+        "fecha": "2022-11-28",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1547",
+        "id_recorrido": "2",
+        "fecha": "2022-08-16",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1548",
+        "id_recorrido": "1",
+        "fecha": "2022-06-01",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1549",
+        "id_recorrido": "2",
+        "fecha": "2022-03-21",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1550",
+        "id_recorrido": "3",
+        "fecha": "2022-11-01",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1551",
+        "id_recorrido": "1",
+        "fecha": "2022-04-08",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1552",
+        "id_recorrido": "2",
+        "fecha": "2022-12-24",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1553",
+        "id_recorrido": "2",
+        "fecha": "2022-08-26",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1554",
+        "id_recorrido": "1",
+        "fecha": "2022-06-09",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1555",
+        "id_recorrido": "1",
+        "fecha": "2022-03-14",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1556",
+        "id_recorrido": "3",
+        "fecha": "2022-11-22",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1557",
+        "id_recorrido": "1",
+        "fecha": "2022-11-20",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1558",
+        "id_recorrido": "1",
+        "fecha": "2022-02-07",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1559",
+        "id_recorrido": "1",
+        "fecha": "2022-02-28",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1560",
+        "id_recorrido": "3",
+        "fecha": "2022-01-14",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1561",
+        "id_recorrido": "3",
+        "fecha": "2022-11-10",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1562",
+        "id_recorrido": "3",
+        "fecha": "2022-10-26",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1563",
+        "id_recorrido": "1",
+        "fecha": "2022-10-10",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1564",
+        "id_recorrido": "2",
+        "fecha": "2022-03-13",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1565",
+        "id_recorrido": "1",
+        "fecha": "2022-03-07",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1566",
+        "id_recorrido": "1",
+        "fecha": "2022-04-06",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1567",
+        "id_recorrido": "2",
+        "fecha": "2022-12-26",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1568",
+        "id_recorrido": "3",
+        "fecha": "2022-08-02",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1569",
+        "id_recorrido": "3",
+        "fecha": "2022-06-22",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1570",
+        "id_recorrido": "3",
+        "fecha": "2022-07-01",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1571",
+        "id_recorrido": "1",
+        "fecha": "2022-08-21",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1572",
+        "id_recorrido": "1",
+        "fecha": "2022-01-16",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1573",
+        "id_recorrido": "3",
+        "fecha": "2022-02-14",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1574",
+        "id_recorrido": "1",
+        "fecha": "2022-08-08",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1575",
+        "id_recorrido": "1",
+        "fecha": "2022-06-27",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1576",
+        "id_recorrido": "1",
+        "fecha": "2022-09-20",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1577",
+        "id_recorrido": "2",
+        "fecha": "2022-11-06",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1578",
+        "id_recorrido": "1",
+        "fecha": "2022-03-19",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1579",
+        "id_recorrido": "2",
+        "fecha": "2022-03-16",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1580",
+        "id_recorrido": "1",
+        "fecha": "2022-10-22",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1581",
+        "id_recorrido": "2",
+        "fecha": "2022-03-15",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1582",
+        "id_recorrido": "2",
+        "fecha": "2022-01-04",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1583",
+        "id_recorrido": "3",
+        "fecha": "2022-09-03",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1584",
+        "id_recorrido": "3",
+        "fecha": "2022-03-18",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1585",
+        "id_recorrido": "1",
+        "fecha": "2022-01-24",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1586",
+        "id_recorrido": "1",
+        "fecha": "2022-04-15",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1587",
+        "id_recorrido": "2",
+        "fecha": "2022-07-18",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1588",
+        "id_recorrido": "1",
+        "fecha": "2022-11-09",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1589",
+        "id_recorrido": "1",
+        "fecha": "2022-03-24",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1590",
+        "id_recorrido": "1",
+        "fecha": "2022-04-08",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1591",
+        "id_recorrido": "2",
+        "fecha": "2022-07-05",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1592",
+        "id_recorrido": "3",
+        "fecha": "2022-09-06",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1593",
+        "id_recorrido": "1",
+        "fecha": "2022-06-20",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1594",
+        "id_recorrido": "2",
+        "fecha": "2022-09-22",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1595",
+        "id_recorrido": "1",
+        "fecha": "2022-01-27",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1596",
+        "id_recorrido": "3",
+        "fecha": "2022-04-06",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1597",
+        "id_recorrido": "2",
+        "fecha": "2022-07-25",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1598",
+        "id_recorrido": "2",
+        "fecha": "2022-06-06",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1599",
+        "id_recorrido": "1",
+        "fecha": "2022-11-20",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1600",
+        "id_recorrido": "3",
+        "fecha": "2022-08-25",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1601",
+        "id_recorrido": "3",
+        "fecha": "2022-07-28",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1602",
+        "id_recorrido": "2",
+        "fecha": "2022-12-10",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1603",
+        "id_recorrido": "2",
+        "fecha": "2022-06-04",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1604",
+        "id_recorrido": "2",
+        "fecha": "2022-08-24",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1605",
+        "id_recorrido": "1",
+        "fecha": "2022-04-18",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1606",
+        "id_recorrido": "3",
+        "fecha": "2022-11-21",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1607",
+        "id_recorrido": "3",
+        "fecha": "2022-08-01",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1608",
+        "id_recorrido": "3",
+        "fecha": "2022-10-09",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1609",
+        "id_recorrido": "3",
+        "fecha": "2022-05-06",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1610",
+        "id_recorrido": "3",
+        "fecha": "2022-09-27",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1611",
+        "id_recorrido": "1",
+        "fecha": "2022-02-10",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1612",
+        "id_recorrido": "3",
+        "fecha": "2022-07-26",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1613",
+        "id_recorrido": "3",
+        "fecha": "2022-03-07",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1614",
+        "id_recorrido": "2",
+        "fecha": "2022-09-06",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1615",
+        "id_recorrido": "2",
+        "fecha": "2022-12-05",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1616",
+        "id_recorrido": "1",
+        "fecha": "2022-09-04",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1617",
+        "id_recorrido": "3",
+        "fecha": "2022-12-14",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1618",
+        "id_recorrido": "1",
+        "fecha": "2022-12-04",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1619",
+        "id_recorrido": "3",
+        "fecha": "2022-12-09",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1620",
+        "id_recorrido": "1",
+        "fecha": "2022-05-20",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1621",
+        "id_recorrido": "1",
+        "fecha": "2022-09-12",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1622",
+        "id_recorrido": "3",
+        "fecha": "2022-03-09",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1623",
+        "id_recorrido": "3",
+        "fecha": "2022-05-24",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1624",
+        "id_recorrido": "2",
+        "fecha": "2022-04-26",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1625",
+        "id_recorrido": "3",
+        "fecha": "2022-11-08",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1626",
+        "id_recorrido": "2",
+        "fecha": "2022-01-09",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1627",
+        "id_recorrido": "1",
+        "fecha": "2022-05-14",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1628",
+        "id_recorrido": "1",
+        "fecha": "2022-03-20",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1629",
+        "id_recorrido": "2",
+        "fecha": "2022-07-20",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1630",
+        "id_recorrido": "3",
+        "fecha": "2022-10-24",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1631",
+        "id_recorrido": "3",
+        "fecha": "2022-09-11",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1632",
+        "id_recorrido": "1",
+        "fecha": "2022-04-22",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1633",
+        "id_recorrido": "1",
+        "fecha": "2022-08-14",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1634",
+        "id_recorrido": "1",
+        "fecha": "2022-09-18",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1635",
+        "id_recorrido": "3",
+        "fecha": "2022-09-18",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1636",
+        "id_recorrido": "2",
+        "fecha": "2022-12-28",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1637",
+        "id_recorrido": "1",
+        "fecha": "2022-07-06",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1638",
+        "id_recorrido": "1",
+        "fecha": "2022-10-17",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1639",
+        "id_recorrido": "1",
+        "fecha": "2022-03-02",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1640",
+        "id_recorrido": "3",
+        "fecha": "2022-06-19",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1641",
+        "id_recorrido": "1",
+        "fecha": "2022-01-27",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1642",
+        "id_recorrido": "3",
+        "fecha": "2022-09-21",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1643",
+        "id_recorrido": "2",
+        "fecha": "2022-01-10",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1644",
+        "id_recorrido": "3",
+        "fecha": "2022-03-23",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1645",
+        "id_recorrido": "2",
+        "fecha": "2022-07-06",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1646",
+        "id_recorrido": "3",
+        "fecha": "2022-01-12",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1647",
+        "id_recorrido": "3",
+        "fecha": "2022-09-04",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1648",
+        "id_recorrido": "3",
+        "fecha": "2022-09-15",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1649",
+        "id_recorrido": "1",
+        "fecha": "2022-01-03",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1650",
+        "id_recorrido": "2",
+        "fecha": "2022-01-19",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1651",
+        "id_recorrido": "2",
+        "fecha": "2022-04-26",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1652",
+        "id_recorrido": "2",
+        "fecha": "2022-07-05",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1653",
+        "id_recorrido": "2",
+        "fecha": "2022-08-15",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1654",
+        "id_recorrido": "2",
+        "fecha": "2022-06-22",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1655",
+        "id_recorrido": "1",
+        "fecha": "2022-10-19",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1656",
+        "id_recorrido": "2",
+        "fecha": "2022-09-25",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1657",
+        "id_recorrido": "1",
+        "fecha": "2022-09-21",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1658",
+        "id_recorrido": "3",
+        "fecha": "2022-12-19",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1659",
+        "id_recorrido": "2",
+        "fecha": "2022-06-28",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1660",
+        "id_recorrido": "1",
+        "fecha": "2022-06-16",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1661",
+        "id_recorrido": "3",
+        "fecha": "2022-09-18",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1662",
+        "id_recorrido": "3",
+        "fecha": "2022-08-23",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1663",
+        "id_recorrido": "1",
+        "fecha": "2022-10-22",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1664",
+        "id_recorrido": "1",
+        "fecha": "2022-10-12",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1665",
+        "id_recorrido": "3",
+        "fecha": "2022-08-09",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1666",
+        "id_recorrido": "3",
+        "fecha": "2022-08-21",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1667",
+        "id_recorrido": "1",
+        "fecha": "2022-01-25",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1668",
+        "id_recorrido": "1",
+        "fecha": "2022-05-28",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1669",
+        "id_recorrido": "1",
+        "fecha": "2022-08-28",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1670",
+        "id_recorrido": "2",
+        "fecha": "2022-05-02",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1671",
+        "id_recorrido": "3",
+        "fecha": "2022-05-20",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1672",
+        "id_recorrido": "2",
+        "fecha": "2022-06-21",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1673",
+        "id_recorrido": "2",
+        "fecha": "2022-01-01",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1674",
+        "id_recorrido": "2",
+        "fecha": "2022-06-04",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1675",
+        "id_recorrido": "3",
+        "fecha": "2022-10-12",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1676",
+        "id_recorrido": "1",
+        "fecha": "2022-01-10",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1677",
+        "id_recorrido": "3",
+        "fecha": "2022-04-01",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1678",
+        "id_recorrido": "3",
+        "fecha": "2022-09-20",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1679",
+        "id_recorrido": "2",
+        "fecha": "2022-01-14",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1680",
+        "id_recorrido": "2",
+        "fecha": "2022-11-10",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1681",
+        "id_recorrido": "1",
+        "fecha": "2022-07-06",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1682",
+        "id_recorrido": "3",
+        "fecha": "2022-03-15",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1683",
+        "id_recorrido": "2",
+        "fecha": "2022-04-14",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1684",
+        "id_recorrido": "2",
+        "fecha": "2022-02-15",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1685",
+        "id_recorrido": "2",
+        "fecha": "2022-12-04",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1686",
+        "id_recorrido": "1",
+        "fecha": "2022-10-20",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1687",
+        "id_recorrido": "2",
+        "fecha": "2022-05-21",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1688",
+        "id_recorrido": "3",
+        "fecha": "2022-04-18",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1689",
+        "id_recorrido": "3",
+        "fecha": "2022-09-28",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1690",
+        "id_recorrido": "3",
+        "fecha": "2022-08-06",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1691",
+        "id_recorrido": "3",
+        "fecha": "2022-07-18",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1692",
+        "id_recorrido": "1",
+        "fecha": "2022-09-13",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1693",
+        "id_recorrido": "1",
+        "fecha": "2022-12-17",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1694",
+        "id_recorrido": "3",
+        "fecha": "2022-08-09",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1695",
+        "id_recorrido": "3",
+        "fecha": "2022-11-06",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1696",
+        "id_recorrido": "2",
+        "fecha": "2022-04-15",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1697",
+        "id_recorrido": "1",
+        "fecha": "2022-06-04",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1698",
+        "id_recorrido": "2",
+        "fecha": "2022-04-08",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1699",
+        "id_recorrido": "1",
+        "fecha": "2022-08-22",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1700",
+        "id_recorrido": "1",
+        "fecha": "2022-05-12",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1701",
+        "id_recorrido": "3",
+        "fecha": "2022-03-01",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1702",
+        "id_recorrido": "2",
+        "fecha": "2022-02-21",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1703",
+        "id_recorrido": "3",
+        "fecha": "2022-09-23",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1704",
+        "id_recorrido": "1",
+        "fecha": "2022-09-05",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1705",
+        "id_recorrido": "3",
+        "fecha": "2022-06-23",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1706",
+        "id_recorrido": "2",
+        "fecha": "2022-02-12",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1707",
+        "id_recorrido": "1",
+        "fecha": "2022-08-02",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1708",
+        "id_recorrido": "3",
+        "fecha": "2022-01-14",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1709",
+        "id_recorrido": "3",
+        "fecha": "2022-08-06",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1710",
+        "id_recorrido": "2",
+        "fecha": "2022-06-21",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1711",
+        "id_recorrido": "2",
+        "fecha": "2022-12-18",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1712",
+        "id_recorrido": "3",
+        "fecha": "2022-11-10",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1713",
+        "id_recorrido": "3",
+        "fecha": "2022-04-03",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1714",
+        "id_recorrido": "3",
+        "fecha": "2022-08-10",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1715",
+        "id_recorrido": "1",
+        "fecha": "2022-11-17",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1716",
+        "id_recorrido": "1",
+        "fecha": "2022-08-13",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1717",
+        "id_recorrido": "2",
+        "fecha": "2022-02-26",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1718",
+        "id_recorrido": "1",
+        "fecha": "2022-04-10",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1719",
+        "id_recorrido": "3",
+        "fecha": "2022-09-19",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1720",
+        "id_recorrido": "3",
+        "fecha": "2022-07-28",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1721",
+        "id_recorrido": "3",
+        "fecha": "2022-05-16",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1722",
+        "id_recorrido": "1",
+        "fecha": "2022-04-06",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1723",
+        "id_recorrido": "2",
+        "fecha": "2022-07-25",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1724",
+        "id_recorrido": "1",
+        "fecha": "2022-06-11",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1725",
+        "id_recorrido": "1",
+        "fecha": "2022-05-24",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1726",
+        "id_recorrido": "3",
+        "fecha": "2022-03-03",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1727",
+        "id_recorrido": "2",
+        "fecha": "2022-08-09",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1728",
+        "id_recorrido": "2",
+        "fecha": "2022-08-23",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1729",
+        "id_recorrido": "2",
+        "fecha": "2022-10-12",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1730",
+        "id_recorrido": "2",
+        "fecha": "2022-08-03",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1731",
+        "id_recorrido": "1",
+        "fecha": "2022-10-24",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1732",
+        "id_recorrido": "2",
+        "fecha": "2022-05-02",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1733",
+        "id_recorrido": "3",
+        "fecha": "2022-08-07",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1734",
+        "id_recorrido": "2",
+        "fecha": "2022-07-24",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1735",
+        "id_recorrido": "1",
+        "fecha": "2022-11-20",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1736",
+        "id_recorrido": "1",
+        "fecha": "2022-01-18",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1737",
+        "id_recorrido": "2",
+        "fecha": "2022-10-07",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1738",
+        "id_recorrido": "3",
+        "fecha": "2022-02-14",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1739",
+        "id_recorrido": "1",
+        "fecha": "2022-08-28",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1740",
+        "id_recorrido": "1",
+        "fecha": "2022-08-21",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1741",
+        "id_recorrido": "2",
+        "fecha": "2022-07-21",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1742",
+        "id_recorrido": "1",
+        "fecha": "2022-11-15",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1743",
+        "id_recorrido": "1",
+        "fecha": "2022-10-02",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1744",
+        "id_recorrido": "3",
+        "fecha": "2022-11-22",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1745",
+        "id_recorrido": "3",
+        "fecha": "2022-11-09",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1746",
+        "id_recorrido": "1",
+        "fecha": "2022-02-08",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1747",
+        "id_recorrido": "3",
+        "fecha": "2022-04-21",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1748",
+        "id_recorrido": "1",
+        "fecha": "2022-02-24",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1749",
+        "id_recorrido": "2",
+        "fecha": "2022-12-12",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1750",
+        "id_recorrido": "1",
+        "fecha": "2022-07-24",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1751",
+        "id_recorrido": "1",
+        "fecha": "2022-12-10",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1752",
+        "id_recorrido": "3",
+        "fecha": "2022-07-05",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1753",
+        "id_recorrido": "2",
+        "fecha": "2022-11-06",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1754",
+        "id_recorrido": "3",
+        "fecha": "2022-07-09",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1755",
+        "id_recorrido": "2",
+        "fecha": "2022-12-07",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1756",
+        "id_recorrido": "1",
+        "fecha": "2022-04-12",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1757",
+        "id_recorrido": "3",
+        "fecha": "2022-11-07",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1758",
+        "id_recorrido": "3",
+        "fecha": "2022-10-08",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1759",
+        "id_recorrido": "2",
+        "fecha": "2022-08-24",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1760",
+        "id_recorrido": "1",
+        "fecha": "2022-03-26",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1761",
+        "id_recorrido": "3",
+        "fecha": "2022-10-07",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1762",
+        "id_recorrido": "3",
+        "fecha": "2022-07-07",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1763",
+        "id_recorrido": "2",
+        "fecha": "2022-11-18",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1764",
+        "id_recorrido": "2",
+        "fecha": "2022-11-27",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1765",
+        "id_recorrido": "3",
+        "fecha": "2022-01-14",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1766",
+        "id_recorrido": "1",
+        "fecha": "2022-09-11",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1767",
+        "id_recorrido": "3",
+        "fecha": "2022-03-24",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1768",
+        "id_recorrido": "1",
+        "fecha": "2022-04-27",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1769",
+        "id_recorrido": "1",
+        "fecha": "2022-02-04",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1770",
+        "id_recorrido": "1",
+        "fecha": "2022-06-01",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1771",
+        "id_recorrido": "1",
+        "fecha": "2022-05-15",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1772",
+        "id_recorrido": "1",
+        "fecha": "2022-06-05",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1773",
+        "id_recorrido": "1",
+        "fecha": "2022-04-24",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1774",
+        "id_recorrido": "1",
+        "fecha": "2022-04-16",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1775",
+        "id_recorrido": "1",
+        "fecha": "2022-01-04",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1776",
+        "id_recorrido": "2",
+        "fecha": "2022-03-21",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1777",
+        "id_recorrido": "3",
+        "fecha": "2022-01-08",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1778",
+        "id_recorrido": "3",
+        "fecha": "2022-02-09",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1779",
+        "id_recorrido": "1",
+        "fecha": "2022-12-06",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1780",
+        "id_recorrido": "1",
+        "fecha": "2022-03-07",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1781",
+        "id_recorrido": "1",
+        "fecha": "2022-10-19",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1782",
+        "id_recorrido": "1",
+        "fecha": "2022-10-09",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1783",
+        "id_recorrido": "3",
+        "fecha": "2022-01-16",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1784",
+        "id_recorrido": "1",
+        "fecha": "2022-04-11",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1785",
+        "id_recorrido": "1",
+        "fecha": "2022-01-24",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1786",
+        "id_recorrido": "2",
+        "fecha": "2022-07-07",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1787",
+        "id_recorrido": "2",
+        "fecha": "2022-06-06",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1788",
+        "id_recorrido": "3",
+        "fecha": "2022-09-21",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1789",
+        "id_recorrido": "1",
+        "fecha": "2022-12-27",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1790",
+        "id_recorrido": "1",
+        "fecha": "2022-12-05",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1791",
+        "id_recorrido": "1",
+        "fecha": "2022-08-08",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1792",
+        "id_recorrido": "1",
+        "fecha": "2022-11-24",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1793",
+        "id_recorrido": "2",
+        "fecha": "2022-11-03",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1794",
+        "id_recorrido": "2",
+        "fecha": "2022-04-12",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1795",
+        "id_recorrido": "2",
+        "fecha": "2022-08-06",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1796",
+        "id_recorrido": "1",
+        "fecha": "2022-10-03",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1797",
+        "id_recorrido": "2",
+        "fecha": "2022-12-26",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1798",
+        "id_recorrido": "3",
+        "fecha": "2022-09-10",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1799",
+        "id_recorrido": "1",
+        "fecha": "2022-11-07",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1800",
+        "id_recorrido": "2",
+        "fecha": "2022-01-15",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1801",
+        "id_recorrido": "3",
+        "fecha": "2022-03-23",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1802",
+        "id_recorrido": "2",
+        "fecha": "2022-08-04",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1803",
+        "id_recorrido": "2",
+        "fecha": "2022-09-14",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1804",
+        "id_recorrido": "1",
+        "fecha": "2022-07-20",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1805",
+        "id_recorrido": "1",
+        "fecha": "2022-02-25",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1806",
+        "id_recorrido": "2",
+        "fecha": "2022-08-07",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1807",
+        "id_recorrido": "2",
+        "fecha": "2022-09-16",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1808",
+        "id_recorrido": "3",
+        "fecha": "2022-07-22",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1809",
+        "id_recorrido": "2",
+        "fecha": "2022-10-04",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1810",
+        "id_recorrido": "2",
+        "fecha": "2022-09-26",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1811",
+        "id_recorrido": "3",
+        "fecha": "2022-06-08",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1812",
+        "id_recorrido": "1",
+        "fecha": "2022-02-13",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1813",
+        "id_recorrido": "1",
+        "fecha": "2022-07-18",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1814",
+        "id_recorrido": "1",
+        "fecha": "2022-07-13",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1815",
+        "id_recorrido": "1",
+        "fecha": "2022-10-02",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1816",
+        "id_recorrido": "3",
+        "fecha": "2022-12-10",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1817",
+        "id_recorrido": "1",
+        "fecha": "2022-03-12",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1818",
+        "id_recorrido": "3",
+        "fecha": "2022-02-03",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1819",
+        "id_recorrido": "1",
+        "fecha": "2022-07-24",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1820",
+        "id_recorrido": "1",
+        "fecha": "2022-02-15",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1821",
+        "id_recorrido": "2",
+        "fecha": "2022-08-25",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1822",
+        "id_recorrido": "3",
+        "fecha": "2022-08-03",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1823",
+        "id_recorrido": "1",
+        "fecha": "2022-01-04",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1824",
+        "id_recorrido": "2",
+        "fecha": "2022-06-19",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1825",
+        "id_recorrido": "2",
+        "fecha": "2022-05-06",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1826",
+        "id_recorrido": "2",
+        "fecha": "2022-02-27",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1827",
+        "id_recorrido": "3",
+        "fecha": "2022-02-05",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1828",
+        "id_recorrido": "3",
+        "fecha": "2022-03-28",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1829",
+        "id_recorrido": "1",
+        "fecha": "2022-05-04",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1830",
+        "id_recorrido": "3",
+        "fecha": "2022-04-07",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1831",
+        "id_recorrido": "3",
+        "fecha": "2022-02-19",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1832",
+        "id_recorrido": "1",
+        "fecha": "2022-07-03",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1833",
+        "id_recorrido": "1",
+        "fecha": "2022-07-03",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1834",
+        "id_recorrido": "3",
+        "fecha": "2022-06-11",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1835",
+        "id_recorrido": "2",
+        "fecha": "2022-04-27",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1836",
+        "id_recorrido": "2",
+        "fecha": "2022-07-08",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1837",
+        "id_recorrido": "3",
+        "fecha": "2022-04-02",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1838",
+        "id_recorrido": "3",
+        "fecha": "2022-10-07",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1839",
+        "id_recorrido": "2",
+        "fecha": "2022-08-02",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1840",
+        "id_recorrido": "1",
+        "fecha": "2022-05-20",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1841",
+        "id_recorrido": "3",
+        "fecha": "2022-12-10",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1842",
+        "id_recorrido": "3",
+        "fecha": "2022-12-17",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1843",
+        "id_recorrido": "1",
+        "fecha": "2022-10-19",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1844",
+        "id_recorrido": "1",
+        "fecha": "2022-04-27",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1845",
+        "id_recorrido": "3",
+        "fecha": "2022-08-19",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1846",
+        "id_recorrido": "1",
+        "fecha": "2022-03-04",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1847",
+        "id_recorrido": "3",
+        "fecha": "2022-04-02",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1848",
+        "id_recorrido": "2",
+        "fecha": "2022-10-05",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1849",
+        "id_recorrido": "2",
+        "fecha": "2022-02-08",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1850",
+        "id_recorrido": "3",
+        "fecha": "2022-06-05",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1851",
+        "id_recorrido": "1",
+        "fecha": "2022-11-19",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1852",
+        "id_recorrido": "2",
+        "fecha": "2022-07-20",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1853",
+        "id_recorrido": "3",
+        "fecha": "2022-07-28",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1854",
+        "id_recorrido": "3",
+        "fecha": "2022-07-13",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1855",
+        "id_recorrido": "2",
+        "fecha": "2022-01-07",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1856",
+        "id_recorrido": "3",
+        "fecha": "2022-07-25",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1857",
+        "id_recorrido": "2",
+        "fecha": "2022-01-08",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1858",
+        "id_recorrido": "2",
+        "fecha": "2022-10-06",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1859",
+        "id_recorrido": "1",
+        "fecha": "2022-09-28",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1860",
+        "id_recorrido": "3",
+        "fecha": "2022-01-13",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1861",
+        "id_recorrido": "2",
+        "fecha": "2022-06-24",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1862",
+        "id_recorrido": "3",
+        "fecha": "2022-10-12",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1863",
+        "id_recorrido": "3",
+        "fecha": "2022-04-09",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1864",
+        "id_recorrido": "2",
+        "fecha": "2022-01-08",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1865",
+        "id_recorrido": "1",
+        "fecha": "2022-02-04",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1866",
+        "id_recorrido": "1",
+        "fecha": "2022-05-23",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1867",
+        "id_recorrido": "1",
+        "fecha": "2022-05-19",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1868",
+        "id_recorrido": "1",
+        "fecha": "2022-08-12",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1869",
+        "id_recorrido": "2",
+        "fecha": "2022-09-09",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1870",
+        "id_recorrido": "3",
+        "fecha": "2022-10-16",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1871",
+        "id_recorrido": "1",
+        "fecha": "2022-11-27",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1872",
+        "id_recorrido": "2",
+        "fecha": "2022-04-05",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1873",
+        "id_recorrido": "2",
+        "fecha": "2022-02-17",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1874",
+        "id_recorrido": "3",
+        "fecha": "2022-03-28",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1875",
+        "id_recorrido": "3",
+        "fecha": "2022-11-12",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1876",
+        "id_recorrido": "2",
+        "fecha": "2022-03-22",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1877",
+        "id_recorrido": "2",
+        "fecha": "2022-06-15",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1878",
+        "id_recorrido": "3",
+        "fecha": "2022-08-23",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1879",
+        "id_recorrido": "2",
+        "fecha": "2022-12-24",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1880",
+        "id_recorrido": "2",
+        "fecha": "2022-12-06",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1881",
+        "id_recorrido": "1",
+        "fecha": "2022-03-11",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1882",
+        "id_recorrido": "2",
+        "fecha": "2022-11-15",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1883",
+        "id_recorrido": "2",
+        "fecha": "2022-04-09",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1884",
+        "id_recorrido": "2",
+        "fecha": "2022-04-03",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1885",
+        "id_recorrido": "2",
+        "fecha": "2022-04-27",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1886",
+        "id_recorrido": "1",
+        "fecha": "2022-06-05",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1887",
+        "id_recorrido": "2",
+        "fecha": "2022-07-08",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1888",
+        "id_recorrido": "1",
+        "fecha": "2022-12-11",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1889",
+        "id_recorrido": "1",
+        "fecha": "2022-11-28",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1890",
+        "id_recorrido": "2",
+        "fecha": "2022-04-10",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1891",
+        "id_recorrido": "1",
+        "fecha": "2022-05-22",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1892",
+        "id_recorrido": "2",
+        "fecha": "2022-02-11",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1893",
+        "id_recorrido": "3",
+        "fecha": "2022-07-20",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1894",
+        "id_recorrido": "3",
+        "fecha": "2022-08-07",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1895",
+        "id_recorrido": "2",
+        "fecha": "2022-11-02",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1896",
+        "id_recorrido": "1",
+        "fecha": "2022-07-09",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1897",
+        "id_recorrido": "1",
+        "fecha": "2022-01-22",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1898",
+        "id_recorrido": "1",
+        "fecha": "2022-07-11",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1899",
+        "id_recorrido": "1",
+        "fecha": "2022-01-14",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1900",
+        "id_recorrido": "3",
+        "fecha": "2022-06-09",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1901",
+        "id_recorrido": "1",
+        "fecha": "2022-09-05",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1902",
+        "id_recorrido": "3",
+        "fecha": "2022-01-10",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1903",
+        "id_recorrido": "2",
+        "fecha": "2022-09-23",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1904",
+        "id_recorrido": "2",
+        "fecha": "2022-07-02",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1905",
+        "id_recorrido": "2",
+        "fecha": "2022-03-25",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1906",
+        "id_recorrido": "2",
+        "fecha": "2022-05-22",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1907",
+        "id_recorrido": "3",
+        "fecha": "2022-07-13",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1908",
+        "id_recorrido": "2",
+        "fecha": "2022-04-03",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1909",
+        "id_recorrido": "1",
+        "fecha": "2022-06-07",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1910",
+        "id_recorrido": "2",
+        "fecha": "2022-03-23",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1911",
+        "id_recorrido": "2",
+        "fecha": "2022-05-26",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1912",
+        "id_recorrido": "3",
+        "fecha": "2022-05-07",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1913",
+        "id_recorrido": "3",
+        "fecha": "2022-04-17",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1914",
+        "id_recorrido": "2",
+        "fecha": "2022-12-15",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1915",
+        "id_recorrido": "2",
+        "fecha": "2022-05-02",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1916",
+        "id_recorrido": "1",
+        "fecha": "2022-04-05",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1917",
+        "id_recorrido": "3",
+        "fecha": "2022-08-02",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1918",
+        "id_recorrido": "1",
+        "fecha": "2022-11-03",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1919",
+        "id_recorrido": "2",
+        "fecha": "2022-02-25",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1920",
+        "id_recorrido": "2",
+        "fecha": "2022-11-23",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1921",
+        "id_recorrido": "1",
+        "fecha": "2022-03-02",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1922",
+        "id_recorrido": "2",
+        "fecha": "2022-07-08",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1923",
+        "id_recorrido": "2",
+        "fecha": "2022-07-14",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1924",
+        "id_recorrido": "2",
+        "fecha": "2022-06-19",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1925",
+        "id_recorrido": "3",
+        "fecha": "2022-07-22",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1926",
+        "id_recorrido": "3",
+        "fecha": "2022-01-23",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1927",
+        "id_recorrido": "2",
+        "fecha": "2022-02-24",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1928",
+        "id_recorrido": "3",
+        "fecha": "2022-01-10",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1929",
+        "id_recorrido": "3",
+        "fecha": "2022-02-10",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1930",
+        "id_recorrido": "3",
+        "fecha": "2022-10-25",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1931",
+        "id_recorrido": "3",
+        "fecha": "2022-03-11",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1932",
+        "id_recorrido": "1",
+        "fecha": "2022-05-04",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1933",
+        "id_recorrido": "1",
+        "fecha": "2022-06-14",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1934",
+        "id_recorrido": "2",
+        "fecha": "2022-07-24",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1935",
+        "id_recorrido": "1",
+        "fecha": "2022-12-18",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1936",
+        "id_recorrido": "3",
+        "fecha": "2022-10-25",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1937",
+        "id_recorrido": "3",
+        "fecha": "2022-03-26",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1938",
+        "id_recorrido": "1",
+        "fecha": "2022-04-19",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1939",
+        "id_recorrido": "2",
+        "fecha": "2022-06-13",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1940",
+        "id_recorrido": "3",
+        "fecha": "2022-11-22",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1941",
+        "id_recorrido": "2",
+        "fecha": "2022-11-16",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1942",
+        "id_recorrido": "1",
+        "fecha": "2022-11-24",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1943",
+        "id_recorrido": "2",
+        "fecha": "2022-04-12",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1944",
+        "id_recorrido": "3",
+        "fecha": "2022-05-12",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1945",
+        "id_recorrido": "2",
+        "fecha": "2022-09-18",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1946",
+        "id_recorrido": "1",
+        "fecha": "2022-01-14",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1947",
+        "id_recorrido": "1",
+        "fecha": "2022-04-25",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1948",
+        "id_recorrido": "2",
+        "fecha": "2022-02-19",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1949",
+        "id_recorrido": "1",
+        "fecha": "2022-03-03",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1950",
+        "id_recorrido": "1",
+        "fecha": "2022-03-06",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1951",
+        "id_recorrido": "1",
+        "fecha": "2022-06-28",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1952",
+        "id_recorrido": "2",
+        "fecha": "2022-07-08",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1953",
+        "id_recorrido": "3",
+        "fecha": "2022-04-08",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1954",
+        "id_recorrido": "1",
+        "fecha": "2022-08-20",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1955",
+        "id_recorrido": "3",
+        "fecha": "2022-08-04",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1956",
+        "id_recorrido": "3",
+        "fecha": "2022-06-26",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1957",
+        "id_recorrido": "3",
+        "fecha": "2022-11-14",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1958",
+        "id_recorrido": "1",
+        "fecha": "2022-12-06",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1959",
+        "id_recorrido": "2",
+        "fecha": "2022-04-02",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1960",
+        "id_recorrido": "2",
+        "fecha": "2022-12-26",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "1961",
+        "id_recorrido": "3",
+        "fecha": "2022-02-04",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1962",
+        "id_recorrido": "2",
+        "fecha": "2022-07-02",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1963",
+        "id_recorrido": "1",
+        "fecha": "2022-03-19",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1964",
+        "id_recorrido": "1",
+        "fecha": "2022-12-21",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1965",
+        "id_recorrido": "1",
+        "fecha": "2022-02-15",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1966",
+        "id_recorrido": "2",
+        "fecha": "2022-11-19",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1967",
+        "id_recorrido": "2",
+        "fecha": "2022-03-27",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1968",
+        "id_recorrido": "1",
+        "fecha": "2022-09-18",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1969",
+        "id_recorrido": "2",
+        "fecha": "2022-04-21",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1970",
+        "id_recorrido": "1",
+        "fecha": "2022-03-23",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1971",
+        "id_recorrido": "1",
+        "fecha": "2022-11-08",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1972",
+        "id_recorrido": "3",
+        "fecha": "2022-02-10",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1973",
+        "id_recorrido": "1",
+        "fecha": "2022-01-21",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1974",
+        "id_recorrido": "3",
+        "fecha": "2022-09-10",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1975",
+        "id_recorrido": "1",
+        "fecha": "2022-11-22",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1976",
+        "id_recorrido": "3",
+        "fecha": "2022-01-20",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1977",
+        "id_recorrido": "2",
+        "fecha": "2022-07-03",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1978",
+        "id_recorrido": "2",
+        "fecha": "2022-02-12",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "1979",
+        "id_recorrido": "2",
+        "fecha": "2022-04-28",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1980",
+        "id_recorrido": "1",
+        "fecha": "2022-05-02",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "1981",
+        "id_recorrido": "3",
+        "fecha": "2022-10-24",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1982",
+        "id_recorrido": "3",
+        "fecha": "2022-06-16",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1983",
+        "id_recorrido": "1",
+        "fecha": "2022-12-28",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "1984",
+        "id_recorrido": "3",
+        "fecha": "2022-12-11",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1985",
+        "id_recorrido": "3",
+        "fecha": "2022-12-19",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1986",
+        "id_recorrido": "3",
+        "fecha": "2022-04-14",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1987",
+        "id_recorrido": "3",
+        "fecha": "2022-02-25",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "1988",
+        "id_recorrido": "3",
+        "fecha": "2022-10-24",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "1989",
+        "id_recorrido": "3",
+        "fecha": "2022-11-05",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1990",
+        "id_recorrido": "1",
+        "fecha": "2022-12-15",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1991",
+        "id_recorrido": "2",
+        "fecha": "2022-12-02",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "1992",
+        "id_recorrido": "2",
+        "fecha": "2022-06-01",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "1993",
+        "id_recorrido": "2",
+        "fecha": "2022-04-01",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "1994",
+        "id_recorrido": "1",
+        "fecha": "2022-10-01",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "1995",
+        "id_recorrido": "2",
+        "fecha": "2022-09-19",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1996",
+        "id_recorrido": "1",
+        "fecha": "2022-09-17",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "1997",
+        "id_recorrido": "3",
+        "fecha": "2022-09-25",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "1998",
+        "id_recorrido": "2",
+        "fecha": "2022-01-11",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "1999",
+        "id_recorrido": "2",
+        "fecha": "2022-10-26",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "2000",
+        "id_recorrido": "3",
+        "fecha": "2022-11-04",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "2001",
+        "id_recorrido": "1",
+        "fecha": "2022-02-09",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "2002",
+        "id_recorrido": "1",
+        "fecha": "2022-05-10",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "2003",
+        "id_recorrido": "3",
+        "fecha": "2022-11-19",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "2004",
+        "id_recorrido": "1",
+        "fecha": "2022-07-23",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "2005",
+        "id_recorrido": "3",
+        "fecha": "2022-02-02",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "2006",
+        "id_recorrido": "1",
+        "fecha": "2022-09-03",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "2007",
+        "id_recorrido": "2",
+        "fecha": "2022-03-02",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "2008",
+        "id_recorrido": "1",
+        "fecha": "2022-05-08",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "2009",
+        "id_recorrido": "1",
+        "fecha": "2022-02-04",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "2010",
+        "id_recorrido": "3",
+        "fecha": "2022-08-03",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "2011",
+        "id_recorrido": "1",
+        "fecha": "2022-03-04",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "2012",
+        "id_recorrido": "2",
+        "fecha": "2022-05-18",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "2013",
+        "id_recorrido": "1",
+        "fecha": "2022-12-21",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "2014",
+        "id_recorrido": "1",
+        "fecha": "2022-12-14",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "2015",
+        "id_recorrido": "2",
+        "fecha": "2022-04-26",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "2016",
+        "id_recorrido": "2",
+        "fecha": "2022-07-11",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "2017",
+        "id_recorrido": "2",
+        "fecha": "2022-08-01",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "2018",
+        "id_recorrido": "1",
+        "fecha": "2022-06-10",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "2019",
+        "id_recorrido": "2",
+        "fecha": "2022-05-03",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "2020",
+        "id_recorrido": "3",
+        "fecha": "2022-02-27",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "2021",
+        "id_recorrido": "2",
+        "fecha": "2022-12-14",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "2022",
+        "id_recorrido": "1",
+        "fecha": "2022-06-04",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "2023",
+        "id_recorrido": "2",
+        "fecha": "2022-02-14",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "2024",
+        "id_recorrido": "1",
+        "fecha": "2022-02-13",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "2025",
+        "id_recorrido": "1",
+        "fecha": "2022-03-25",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "2026",
+        "id_recorrido": "2",
+        "fecha": "2022-09-25",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "2027",
+        "id_recorrido": "2",
+        "fecha": "2022-07-21",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "2028",
+        "id_recorrido": "1",
+        "fecha": "2022-09-18",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "2029",
+        "id_recorrido": "1",
+        "fecha": "2022-06-17",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "2030",
+        "id_recorrido": "1",
+        "fecha": "2022-08-06",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "2031",
+        "id_recorrido": "2",
+        "fecha": "2022-06-16",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "2032",
+        "id_recorrido": "3",
+        "fecha": "2022-05-25",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "2033",
+        "id_recorrido": "3",
+        "fecha": "2022-08-26",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "2034",
+        "id_recorrido": "2",
+        "fecha": "2022-07-13",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "2035",
+        "id_recorrido": "1",
+        "fecha": "2022-07-01",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "2036",
+        "id_recorrido": "1",
+        "fecha": "2022-07-06",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "2037",
+        "id_recorrido": "2",
+        "fecha": "2022-09-26",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "2038",
+        "id_recorrido": "3",
+        "fecha": "2022-06-27",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "2039",
+        "id_recorrido": "3",
+        "fecha": "2022-04-28",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "2040",
+        "id_recorrido": "1",
+        "fecha": "2022-11-17",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "2041",
+        "id_recorrido": "3",
+        "fecha": "2022-02-13",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "2042",
+        "id_recorrido": "2",
+        "fecha": "2022-04-17",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "2043",
+        "id_recorrido": "2",
+        "fecha": "2022-11-10",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "2044",
+        "id_recorrido": "3",
+        "fecha": "2022-12-04",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "2045",
+        "id_recorrido": "3",
+        "fecha": "2022-05-28",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "2046",
+        "id_recorrido": "1",
+        "fecha": "2022-07-08",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "2047",
+        "id_recorrido": "3",
+        "fecha": "2022-01-16",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "2048",
+        "id_recorrido": "1",
+        "fecha": "2022-06-26",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "2049",
+        "id_recorrido": "1",
+        "fecha": "2022-02-07",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "2050",
+        "id_recorrido": "2",
+        "fecha": "2022-08-24",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "2051",
+        "id_recorrido": "2",
+        "fecha": "2022-11-15",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "2052",
+        "id_recorrido": "1",
+        "fecha": "2022-10-27",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "2053",
+        "id_recorrido": "1",
+        "fecha": "2022-12-11",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "2054",
+        "id_recorrido": "1",
+        "fecha": "2022-10-17",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "2055",
+        "id_recorrido": "2",
+        "fecha": "2022-02-18",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "2056",
+        "id_recorrido": "2",
+        "fecha": "2022-03-23",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "2057",
+        "id_recorrido": "1",
+        "fecha": "2022-01-11",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "2058",
+        "id_recorrido": "2",
+        "fecha": "2022-01-08",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "2059",
+        "id_recorrido": "3",
+        "fecha": "2022-02-25",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "2060",
+        "id_recorrido": "2",
+        "fecha": "2022-09-22",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "2061",
+        "id_recorrido": "1",
+        "fecha": "2022-07-14",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "2062",
+        "id_recorrido": "2",
+        "fecha": "2022-05-25",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "2063",
+        "id_recorrido": "2",
+        "fecha": "2022-11-20",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "2064",
+        "id_recorrido": "2",
+        "fecha": "2022-01-09",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "2065",
+        "id_recorrido": "3",
+        "fecha": "2022-05-02",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "2066",
+        "id_recorrido": "3",
+        "fecha": "2022-04-28",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "2067",
+        "id_recorrido": "2",
+        "fecha": "2022-08-08",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "2068",
+        "id_recorrido": "3",
+        "fecha": "2022-08-24",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "2069",
+        "id_recorrido": "2",
+        "fecha": "2022-03-16",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "2070",
+        "id_recorrido": "2",
+        "fecha": "2022-08-05",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "2071",
+        "id_recorrido": "2",
+        "fecha": "2022-06-23",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "2072",
+        "id_recorrido": "1",
+        "fecha": "2022-05-04",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "2073",
+        "id_recorrido": "1",
+        "fecha": "2022-07-27",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "2074",
+        "id_recorrido": "3",
+        "fecha": "2022-09-06",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "2075",
+        "id_recorrido": "3",
+        "fecha": "2022-09-16",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "2076",
+        "id_recorrido": "1",
+        "fecha": "2022-07-05",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "2077",
+        "id_recorrido": "1",
+        "fecha": "2022-04-14",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "2078",
+        "id_recorrido": "1",
+        "fecha": "2022-06-21",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "2079",
+        "id_recorrido": "2",
+        "fecha": "2022-11-14",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "2080",
+        "id_recorrido": "1",
+        "fecha": "2022-07-18",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "2081",
+        "id_recorrido": "3",
+        "fecha": "2022-04-02",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "2082",
+        "id_recorrido": "2",
+        "fecha": "2022-01-12",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "2083",
+        "id_recorrido": "3",
+        "fecha": "2022-08-11",
+        "hora": "15:00:00"
+    },
+    {
+        "id_turno": "2084",
+        "id_recorrido": "1",
+        "fecha": "2022-05-02",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "2085",
+        "id_recorrido": "2",
+        "fecha": "2022-03-13",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "2086",
+        "id_recorrido": "3",
+        "fecha": "2022-04-17",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "2087",
+        "id_recorrido": "3",
+        "fecha": "2022-09-11",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "2088",
+        "id_recorrido": "3",
+        "fecha": "2022-10-27",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "2089",
+        "id_recorrido": "1",
+        "fecha": "2022-02-14",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "2090",
+        "id_recorrido": "3",
+        "fecha": "2022-05-04",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "2091",
+        "id_recorrido": "1",
+        "fecha": "2022-07-17",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "2092",
+        "id_recorrido": "2",
+        "fecha": "2022-10-22",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "2093",
+        "id_recorrido": "3",
+        "fecha": "2022-10-21",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "2094",
+        "id_recorrido": "3",
+        "fecha": "2022-12-16",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "2095",
+        "id_recorrido": "2",
+        "fecha": "2022-07-23",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "2096",
+        "id_recorrido": "1",
+        "fecha": "2022-04-19",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "2097",
+        "id_recorrido": "1",
+        "fecha": "2022-04-28",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "2098",
+        "id_recorrido": "1",
+        "fecha": "2022-10-10",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "2099",
+        "id_recorrido": "1",
+        "fecha": "2022-10-13",
+        "hora": "16:00:00"
+    },
+    {
+        "id_turno": "2100",
+        "id_recorrido": "2",
+        "fecha": "2022-03-20",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "2101",
+        "id_recorrido": "1",
+        "fecha": "2022-02-17",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "2102",
+        "id_recorrido": "1",
+        "fecha": "2022-08-17",
+        "hora": "14:00:00"
+    },
+    {
+        "id_turno": "2103",
+        "id_recorrido": "1",
+        "fecha": "2022-05-24",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "2104",
+        "id_recorrido": "2",
+        "fecha": "2022-03-09",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "2105",
+        "id_recorrido": "2",
+        "fecha": "2022-03-12",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "2106",
+        "id_recorrido": "1",
+        "fecha": "2022-11-06",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "2107",
+        "id_recorrido": "2",
+        "fecha": "2022-12-09",
+        "hora": "22:00:00"
+    },
+    {
+        "id_turno": "2108",
+        "id_recorrido": "2",
+        "fecha": "2022-03-11",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "2109",
+        "id_recorrido": "1",
+        "fecha": "2022-05-06",
+        "hora": "12:00:00"
+    },
+    {
+        "id_turno": "2110",
+        "id_recorrido": "2",
+        "fecha": "2022-02-06",
+        "hora": "18:00:00"
+    },
+    {
+        "id_turno": "2111",
+        "id_recorrido": "2",
+        "fecha": "2022-12-15",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "2112",
+        "id_recorrido": "1",
+        "fecha": "2022-08-11",
+        "hora": "20:00:00"
+    },
+    {
+        "id_turno": "2113",
+        "id_recorrido": "3",
+        "fecha": "2022-08-09",
+        "hora": "13:00:00"
+    },
+    {
+        "id_turno": "2114",
+        "id_recorrido": "3",
+        "fecha": "2022-11-23",
+        "hora": "17:00:00"
+    },
+    {
+        "id_turno": "2115",
+        "id_recorrido": "3",
+        "fecha": "2022-11-27",
+        "hora": "19:00:00"
+    },
+    {
+        "id_turno": "2116",
+        "id_recorrido": "2",
+        "fecha": "2022-04-20",
+        "hora": "21:00:00"
+    },
+    {
+        "id_turno": "2117",
+        "id_recorrido": "2",
+        "fecha": "2022-09-19",
+        "hora": "11:00:00"
+    },
+    {
+        "id_turno": "2118",
+        "id_recorrido": "1",
+        "fecha": "2022-11-04",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "2119",
+        "id_recorrido": "2",
+        "fecha": "2022-08-12",
+        "hora": "10:00:00"
+    },
+    {
+        "id_turno": "2120",
+        "id_recorrido": "1",
+        "fecha": "2022-04-15",
+        "hora": "14:00:00"
+    }
+]
