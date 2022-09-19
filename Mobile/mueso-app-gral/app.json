@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "museo-app",
+    "slug": "museo-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./scr/assets/images/logo_mueso_azul.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./scr/assets/images/logo_mueso_azul.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./scr/assets/images/logo_mueso_azul.png",
+        "backgroundColor": "#0979b0"
+      }
+    },
+    "web": {
+      "favicon": "./scr/assets/images/logo_mueso_azul.png"
+    }
+  }
+}
