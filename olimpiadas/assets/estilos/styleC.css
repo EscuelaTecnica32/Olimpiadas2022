@@ -35,6 +35,9 @@ dl, ol, ul {
 }
 .color_turnos{
     background-color: #0979b0;
+	position: relative;
+	top: 20px;
+	color: white;
 }
 .wrapper .header{
 	width: 100%;

@@ -17,7 +17,7 @@
 
 </head>
 
-<body>
+<body class="b">
   <!--NAV-->
   <header>
     <nav class="navbar navbar-expand-lg">
@@ -25,7 +25,7 @@
         <div class="text-center">
           <img class="img" src="assets/imagenes/favicon.png" alt="">
         </div>
-        <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
+        <button title="Menu" class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
           data-bs-target="#navbar-content">
           <i class="fa-solid fa-bars icono"></i>
         </button>
@@ -68,69 +68,69 @@
   
   <!--INFO-->
 
-  <div class="container">
+  <div class="row">
    
-    <div class="row">
-      <div class="col-4">
-        <div class="contenedor bg-light">
-          <div class="caja">
-            <h3>Arte</h3>
-            <a href="recorrido1.html"><button>Ver recorrido</button></a>
-            <span class="count">1</span>
-          </div>
-          <div class="caja">
-            <h3>Historia</h3>
-            <a href="recorrido2.html"><button>Ver recorrido</button></a>
-            <span class="count">2</span>
-          </div>
-          <div class="caja">
-            <h3>Musica</h3>
-            <a href="recorrido3.html"><button>Ver recorrido</button></a>
-            <span class="count">3</span>
-          </div>
+    <div class="col-3">
+      <div class="contenedor">
+        <div class="caja">
+          <h3>Arte</h3>
+          <a href="recorrido1.html"><button>Ver recorrido</button></a>
+          <span class="count">1</span>
         </div>
-
+        <div class="caja">
+          <h3>Historia</h3>
+          <a href="recorrido2.html"><button>Ver recorrido</button></a>
+          <span class="count">2</span>
+        </div>
+        <div class="caja">
+          <h3>Musica</h3>
+          <a href="recorrido3.html"><button>Ver recorrido</button></a>
+          <span class="count">3</span>
+        </div>
       </div>
-      <div class="col-8">
-        <div class="row">
-          <div class="col-6">
-            
-            <div class="card_item">
-              <div class="card_inner">
-                <div class="role_name color_turnos">Tiempo de recorrido</div>
-                <div class="film">
-                  <ul class="bordel">
-                    <li class="m">Recorrido 1:</li>
-                    <li class="m">Recorrido 2:</li>
-                    <li class="m">Recorrido 3:</li>
-                  </ul>
-                </div>
+
+    </div>
+    <div class="col-8">
+      <div class="row justify-content-center">
+        <div class="col-4">
+          
+          <div class="card_item">
+            <div class="card_inner">
+              <div class="role_name color_turnos">Tiempo de recorrido</div>
+              <div class="film">
+                <ul class="bordel">
+                  <li class="m">Recorrido 1:</li>
+                  <li class="m">Recorrido 2:</li>
+                  <li class="m">Recorrido 3:</li>
+                </ul>
               </div>
             </div>
-
-
           </div>
-          <div class="col-6">
-                  <div class="card_item">
-                    <div class="card_inner">
-                      <div class="role_name color_turnos">Horarios</div>
-                      <div class="film">
-                        <ul class="bordel">
-                          <li class="m">Recorrido 1:</li>
-                          <li class="m">Recorrido 2:</li>
-                          <li class="m">Recorrido 3:</li>
-                        </ul>
-                      </div>
+
+
+        </div>
+        <div class="col-4">
+                <div class="card_item">
+                  <div class="card_inner">
+                    <div class="role_name color_turnos">Horarios</div>
+                    <div class="film">
+                      <ul class="bordel">
+                        <li class="m">Recorrido 1:</li>
+                        <li class="m">Recorrido 2:</li>
+                        <li class="m">Recorrido 3:</li>
+                      </ul>
                     </div>
                   </div>
-          </div>
+                </div>
         </div>
-        <div class="row">
-          <div class="col-12">
-            <img src="assets/imagenes/calendario.png" alt="" width="600">
-            
-          </div>
+      </div>
+      <div class="row text-center mt-5">
+        <div class="col-12">
+          <img src="assets/imagenes/calendario.png" alt="calendar.png">
         </div>
+      </div>
+      <div class="row text-end">
+        <a class="btnFinish" href="turnos.html"><button>Finalizar turno</button></a>
       </div>
     </div>
   </div>
