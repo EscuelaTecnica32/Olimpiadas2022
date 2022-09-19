@@ -11,16 +11,6 @@ img.img{
   width: 70px;
   height: 70px;
 }
-.perfil{
-  width: 50vw;
-  height: 50vh;
-  background-color: #0979b0;
-  position: relative;
-  top: 211px;
-  left: 100px;
-  color: white;
-  border-radius: 20px;
-}
 .icono{
   color:#fff
 }
