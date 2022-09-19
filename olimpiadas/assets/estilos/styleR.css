@@ -19,6 +19,7 @@ img.img{
   top: 211px;
   left: 100px;
   color: white;
+  border-radius: 20px;
 }
 .icono{
   color:#fff
