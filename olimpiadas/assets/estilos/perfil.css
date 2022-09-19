@@ -3,9 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-.tarjeta{
-    width: 320px;
-    height: 340px;
+.tarjeta{  
+    width: 500px;
+    height: 432px;
     background: #fff;
     border-radius: 10px;
     position: relative;
@@ -13,6 +13,7 @@
     cursor: pointer;
     justify-content: center;
     box-shadow: 0 0 20px rgba(0, 0,0, 0.13);
+    top:200px;
 }
 .tarjeta::before{
     content: "";

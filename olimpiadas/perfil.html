@@ -9,63 +9,85 @@
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
   <link rel="stylesheet" href="assets/estilos/styleR.css">
   <link rel="stylesheet" href="assets/estilos/perfil.css">
+  <link rel="stylesheet" href="assets/estilos/menu.css">
 </head>
 
 <body>
   <header>
     <nav class="navbar navbar-expand-lg">
-      <div class="container">
-        <div class="text-center">
-          <img class="img" src="assets/imagenes/favicon.png" alt="">
-        </div>
-        <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
-          data-bs-target="#navbar-content">
-          <i class="fa-solid fa-bars icono"></i>
-        </button>
-        <div class="collapse navbar-collapse" id="navbar-content">
-          <ul class="navbar-nav mx-auto mb-2 mb-lg-0 text-sm-end">
-            <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="index.html">INICIO</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="turnos.html">TURNOS</a>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside">RECORRIDOS</a>
-              <ul class="dropdown-menu shadow">
-                <li><a class="dropdown-item" href="recorrido1.html">Recorrido 1</a></li>
-                <li><a class="dropdown-item" href="recorrido2.html">Recorrido 2</a></li>
-                <li><a class="dropdown-item" href="recorrido3.html">Recorrido 3</a></li>
-              </ul>
-            </li>
-          </ul>
+        <div class="container">
+          <div class="text-center">
+            <img class="img" src="assets/imagenes/favicon.png" alt="">
+          </div>
+          <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#navbar-content">
+            <i class="fa-solid fa-bars icono"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navbar-content">
+            <ul class="navbar-nav mx-auto mb-2 mb-lg-0 text-sm-end">
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="index.html">INICIO</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="turnos.html">TURNOS</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside">RECORRIDOS</a>
+                <ul class="dropdown-menu shadow">
+                  <li><a class="dropdown-item" href="recorrido1.html">Recorrido 1</a></li>
+                  <li><a class="dropdown-item" href="recorrido2.html">Recorrido 2</a></li>
+                  <li><a class="dropdown-item" href="recorrido3.html">Recorrido 3</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+          <!--menu-->
+          <div class="dropdown">
+            <button onclick="miFuncion()" class="dropbtn">
+              <span class="material-symbols-outlined iconO">
+                widgets
+              </span>
+            </button>
+            <div id="myDropdown" class="dropdown-content">
+              <a href="confi.html">Tus turnos</a>
+              <a href="perfil.html">Perfil</a>
+              <a href="">Modo ciego</a>
+              <a href="form.html">Cerra sesión</a>
+            </div>
+          </div>
           <a class="btn" href="form.html">Inicia sesión</a>
         </div>
       </div>
-      </div>
     </nav>
   </header>
-  <div class="tarjeta">
-      <div class="cot">
-        <h2>Michael Daniel</h2>
-        <p>Carpintero de la web</p>
-        <div class="center">
-            <div class="boxx">
-              <h1>145</h1>
-              <p>Followers</p>
-            </div>
-            <div class="boxx">
-              <h1>139</h1>
-              <p>Following</p>
-            </div>
+
+  <div class="container text-center">
+    <div class="row justify-content-center">
+      <div class="tarjeta">
+        <div class="cot">
+          <h4>Michael23</h4>
+          <p>Username</p>
+          <div class="center">
+              <div class="boxx">
+                <h4>Maria Morales</h4>
+                <p>Nombre</p>
+              </div>
+              <div class="boxx">
+                <h4>maria@gmail.com</h4>
+                <p>correo</p>
+              </div>
+          </div>
         </div>
-        <button class="btnn">FOLLOW</button>
       </div>
+
     </div>
+  </div>
+ 
 
-
+  <script src="assets/js/java.js"></script>
   <script src="https://kit.fontawesome.com/b3b892b65b.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/js/bootstrap.min.js"></script>

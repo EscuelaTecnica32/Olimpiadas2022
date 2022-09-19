@@ -9,7 +9,9 @@
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
   <link rel="stylesheet" href="assets/estilos/styleR.css">
+  <link rel="stylesheet" href="assets/estilos/menu.css">
 </head>
 
 <body>
@@ -40,8 +42,22 @@
               </ul>
             </li>
           </ul>
-          <a class="btn" href="form.html">Inicia sesión</a>
         </div>
+        <!--menu-->
+        <div class="dropdown">
+          <button onclick="miFuncion()" class="dropbtn">
+            <span class="material-symbols-outlined iconO">
+              widgets
+            </span>
+          </button>
+          <div id="myDropdown" class="dropdown-content">
+            <a href="confi.html">Tus turnos</a>
+            <a href="perfil.html">Perfil</a>
+            <a href="">Modo ciego</a>
+            <a href="form.html">Cerra sesión</a>
+          </div>
+        </div>
+        <a class="btn" href="form.html">Inicia sesión</a>
       </div>
       </div>
     </nav>
@@ -85,7 +101,8 @@
       <img id="im" src="assets/imagenes/planovisita.jpg" alt="">
     </div>
   </section>
-
+  
+  <script src="assets/js/java.js"></script>
   <script src="https://kit.fontawesome.com/b3b892b65b.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/js/bootstrap.min.js"></script>
