@@ -37,7 +37,7 @@ function Login({ navigation }) {
           <View style={{ flexDirection: "row", top: 5 }}>
             <Text style={styles.siNoTienesCuenta}>Si no tienes cuenta, </Text>
             <OpenURLButton style={styles.siNoTienesCuenta} url={"https://google.com"}>
-              <Text>THOMAS ES UN PELOTUDO</Text>
+              <Text>Registrate</Text>
             </OpenURLButton>
           </View>
         </View>

@@ -1,7 +1,6 @@
 import React from "react";
 import { FlatList, Text, View } from "react-native";
-import turnos from "../data/turnos.json";
-import getApi from "../Middleware/get-api";
+import turnos from "../data/turnos.json"
 
 const ApiObject = () => {
     return(

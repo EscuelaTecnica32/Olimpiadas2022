@@ -3,7 +3,9 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import Login from "./Login";
 import Home from "./Home";
+import Turnos from "./Turnos";
 import { useFonts } from 'expo-font';
+import Recorridos from "./Recorridos";
 
 
 const Stack = createNativeStackNavigator();
@@ -21,11 +23,13 @@ const Main = () => {
 
     if (!loaded) return null;
 
-    return(
+    return (
         <NavigationContainer>
             <Stack.Navigator initialRouteName="Login">
-                <Stack.Screen options={{headerTransparent: true, title: null}} name="Login" component={Login}/>
-                <Stack.Screen options={{headerTransparent: true, title: null}} name="Home" component={Home}/>
+                <Stack.Screen options={{ headerTransparent: true, title: null }} name="Login" component={Login} />
+                <Stack.Screen options={{ headerTransparent: true, title: null }} name="Home" component={Home} />
+                <Stack.Screen options={{ headerTransparent: true, title: null }} name="Turnos" component={Turnos} />
+                <Stack.Screen options={{ headerTransparent: true, title: null }} name="Recorridos" component={Recorridos} />
             </Stack.Navigator>
         </NavigationContainer>
     )

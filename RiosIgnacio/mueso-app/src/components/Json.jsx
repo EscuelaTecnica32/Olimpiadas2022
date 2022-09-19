@@ -15,7 +15,7 @@ const Json = () => {
             setError("error")
         }else{
             setIsLoading(false);
-            setResonse(<ApiObject/>);
+            setResonse(<ApiObject turnos={api}/>);
         }
         
     }, [])

@@ -3,7 +3,7 @@ import { ScrollView, StyleSheet, Text, View } from "react-native";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
 
-const Home = () => {
+const Home = ({ navigation }) => {
     return (
         <View style={{ flex: 1, flexDirection: "column", justifyContent: "space-between" }}>
             <View style={
@@ -29,7 +29,7 @@ const Home = () => {
                 </View>
             </ScrollView>
             <View style={{ flex: 1, justifyContent: "flex-end" }}>
-                <Footer />
+                <Footer active="home" navigation={ navigation }/>
             </View>
         </View>
     )

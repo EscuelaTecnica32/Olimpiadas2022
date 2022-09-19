@@ -16,7 +16,11 @@ const Header = () => {
             </View>
             <View style={{ justifyContent: "center" }}>
                 <TouchableOpacity>
-                    <FontAwesomeIcon style={styles.iconUser} icon={solid("user")} />
+                    <Image
+                        source={require("../assets/images/logo_museo_blanco.png")}
+                        resizeMode="contain"
+                        style={styles.image}
+                    />
                 </TouchableOpacity>
             </View>
         </View>
