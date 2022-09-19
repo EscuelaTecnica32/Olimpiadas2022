@@ -1,1 +1,0 @@
-# Olimpiadas2022

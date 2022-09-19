@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Malba</title>
+  <link rel="icon" href="assets/imagenes/favicona.png">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+  <link rel="stylesheet" href="assets/estilos/styleR.css">
+  <link rel="stylesheet" href="assets/estilos/styleC.css">
+  <link rel="stylesheet" href="assets/estilos/turnos.css">
+  <link rel="stylesheet" href="assets/estilos/menu.css">
+
+</head>
+
+<body class="b">
+  <!--NAV-->
+  <header>
+    <nav class="navbar navbar-expand-lg">
+      <div class="container">
+        <div class="text-center">
+          <img class="img" src="assets/imagenes/favicon.png" alt="">
+        </div>
+        <button title="Menu" class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
+          data-bs-target="#navbar-content">
+          <i class="fa-solid fa-bars icono"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar-content">
+          <ul class="navbar-nav mx-auto mb-2 mb-lg-0 text-sm-end">
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" href="index.html">INICIO</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page">TURNOS</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside">RECORRIDOS</a>
+              <ul class="dropdown-menu shadow">
+                <li><a class="dropdown-item" href="recorrido1.html">Recorrido 1</a></li>
+                <li class="dropdown-item" href="recorrido2.html">Recorrido 2</li>
+                <li><a class="dropdown-item" href="recorrido3.html">Recorrido 3</a></li>
+              </ul>
+            </li>
+          </ul>
+          <!--menu-->
+          <div class="dropdown">
+            <button onclick="miFuncion()" class="dropbtn">
+              <span class="material-symbols-outlined iconO">
+                widgets
+              </span>
+            </button>
+            <div id="myDropdown" class="dropdown-content">
+              <a href="#">Tus turnos</a>
+              <a href="form.html">Cerra sesión</a>
+            </div>
+          </div>
+          <a class="btn" href="form.html">Inicia sesión</a>
+        </div>
+      </div>
+      </div>
+    </nav>
+  </header>
+  <!--TARJETAS-->
+  
+  <!--INFO-->
+
+  <div class="row">
+   
+    <div class="col-3">
+      <div class="contenedor">
+        <div class="caja">
+          <h3>Arte</h3>
+          <a href="recorrido1.html"><button>Ver recorrido</button></a>
+          <span class="count">1</span>
+        </div>
+        <div class="caja">
+          <h3>Historia</h3>
+          <a href="recorrido2.html"><button>Ver recorrido</button></a>
+          <span class="count">2</span>
+        </div>
+        <div class="caja">
+          <h3>Musica</h3>
+          <a href="recorrido3.html"><button>Ver recorrido</button></a>
+          <span class="count">3</span>
+        </div>
+      </div>
+
+    </div>
+    <div class="col-8">
+      <div class="row justify-content-center">
+        <div class="col-4">
+          
+          <div class="card_item">
+            <div class="card_inner">
+              <div class="role_name color_turnos text-center">Tiempo de recorrido</div>
+              <div class="film">
+                <ul class="bordel">
+                  <li class="m">Recorrido 1:</li>
+                  <li class="m">Recorrido 2:</li>
+                  <li class="m">Recorrido 3:</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+
+        </div>
+        <div class="col-4">
+                <div class="card_item">
+                  <div class="card_inner">
+                    <div class="role_name color_turnos text-center">Horarios</div>
+                    <div class="film">
+                      <ul class="bordel">
+                        <li class="m">Recorrido 1:</li>
+                        <li class="m">Recorrido 2:</li>
+                        <li class="m">Recorrido 3:</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+        </div>
+      </div>
+      <div class="row text-center mt-5">
+        <div class="col-12">
+          <img src="assets/imagenes/calendario.png" alt="calendar.png">
+        </div>
+      </div>
+      <div class="row text-end">
+        <a class="btnFinish" href="turnos.html"><button>Finalizar turno</button></a>
+      </div>
+    </div>
+  </div>
+  
+
+  <script src="assets/js/java.js"></script>
+  <script src="https://kit.fontawesome.com/b3b892b65b.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
