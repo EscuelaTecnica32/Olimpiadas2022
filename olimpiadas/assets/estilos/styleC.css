@@ -27,17 +27,21 @@ dl, ol, ul {
 }
 .bordel{
 	list-style: none;
-	border: solid 1px #0979b0;
+	background-color: #0979b0; 
 	padding-bottom: 10px;
 }
 .m{
 	padding: 7px 0px;
+	color:white;
 }
 .color_turnos{
-    background-color: #0979b0;
+    background-color: white;
 	position: relative;
 	top: 20px;
-	color: white;
+	color: #0979b0;
+	border: 1px solid;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
 }
 .wrapper .header{
 	width: 100%;
