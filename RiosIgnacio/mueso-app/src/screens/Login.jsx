@@ -26,7 +26,7 @@ function Login({ navigation }) {
               source={require("../assets/images/logo_museo_azul.png")}
               resizeMode="contain"
               style={styles.image}
-            ></Image>
+            />
           </View>
           <Input placeholder={"Usuario"}></Input>
           <Input placeholder={"Contraseña"}></Input>

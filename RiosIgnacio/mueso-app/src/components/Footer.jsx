@@ -1,4 +1,4 @@
-import { Image, StyleSheet, Text, TouchableOpacity, View } from "react-native"
+import { StyleSheet, Text, TouchableOpacity, View } from "react-native"
 import { FontAwesomeIcon } from '@fortawesome/react-native-fontawesome'
 import { faHouse } from '@fortawesome/free-solid-svg-icons/faHouse'
 import { solid } from '@fortawesome/fontawesome-svg-core/import.macro' // <-- import styles to be used
@@ -9,19 +9,19 @@ const Footer = () => {
         <View style={styles.footer}>
             <TouchableOpacity>
                 <View style={styles.box}>
-                    <FontAwesomeIcon style={styles.big} icon={faHouse} />
+                    <FontAwesomeIcon style={styles.bigIcon} icon={faHouse} />
                     <Text style={styles.big}>Home</Text>
                 </View>
             </TouchableOpacity>
             <TouchableOpacity>
                 <View style={styles.box}>
-                    <FontAwesomeIcon style={styles.big} icon={solid('calendar-days')} />
+                    <FontAwesomeIcon style={styles.bigIcon} icon={solid('calendar-days')} />
                     <Text style={styles.big}>Turnos</Text>
                 </View>
             </TouchableOpacity>
             <TouchableOpacity>
                 <View style={styles.box}>
-                    <FontAwesomeIcon style={styles.big} icon={solid('person-walking-with-cane')} />
+                    <FontAwesomeIcon style={styles.bigIcon} icon={solid('person-walking-with-cane')} />
                     <Text style={styles.big}>Recorridos</Text>
                 </View>
             </TouchableOpacity>
@@ -32,15 +32,23 @@ const Footer = () => {
 const styles = StyleSheet.create({
     footer: {
         flexDirection: "row",
-        justifyContent: "space-between",
+        justifyContent: "space-around",
         alignItems: "center",
-
+        borderTopWidth: 1,
+        borderTopColor: "#000000",
+        backgroundColor: "#808080",
+        paddingTop: 10
     },
     big: {
         fontSize: 35
     },
+    bigIcon: {
+        width: 35,
+        height: 35
+    },
     box: {
-        alignItems: "center"
+        alignItems: "center",
+        fontSize: 35
     }
 })
 

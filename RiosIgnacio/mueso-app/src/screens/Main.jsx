@@ -23,7 +23,7 @@ const Main = () => {
 
     return(
         <NavigationContainer>
-            <Stack.Navigator initialRouteName="Home">
+            <Stack.Navigator initialRouteName="Login">
                 <Stack.Screen options={{headerTransparent: true, title: null}} name="Login" component={Login}/>
                 <Stack.Screen options={{headerTransparent: true, title: null}} name="Home" component={Home}/>
             </Stack.Navigator>
