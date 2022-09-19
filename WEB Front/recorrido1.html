@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Malba</title>
+  <link rel="icon" href="assets/imagenes/favicon.png">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+  <link rel="stylesheet" href="assets/estilos/styleR.css">
+  <link rel="stylesheet" href="assets/estilos/menu.css">
+</head>
+
+<body>
+  <header>
+    <nav class="navbar navbar-expand-lg">
+      <div class="container">
+        <div class="text-center">
+          <img class="img" src="assets/imagenes/favicon.png" alt="">
+        </div>
+        <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
+          data-bs-target="#navbar-content">
+          <i class="fa-solid fa-bars icono"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar-content">
+          <ul class="navbar-nav mx-auto mb-2 mb-lg-0 text-sm-end">
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" href="index.html">INICIO</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" href="turnos.html">TURNOS</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside">RECORRIDOS</a>
+              <ul class="dropdown-menu shadow">
+                <li class="dropdown-item active">Recorrido 1</li>
+                <li><a class="dropdown-item" href="recorrido2.html">Recorrido 2</a></li>
+                <li><a class="dropdown-item" href="recorrido3.html">Recorrido 3</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <!--menu-->
+        <div class="dropdown">
+          <button onclick="miFuncion()" class="dropbtn">
+            <span class="material-symbols-outlined iconO">
+              widgets
+            </span>
+          </button>
+          <div id="myDropdown" class="dropdown-content">
+            <a href="confi.html">Tus turnos</a>
+            <a href="perfil.html">Perfil</a>
+            <a href="">Modo ciego</a>
+            <a href="form.html">Cerra sesión</a>
+          </div>
+        </div>
+        <a class="btn" href="form.html">Inicia sesión</a>
+      </div>
+      </div>
+    </nav>
+  </header>
+
+  <section id="team" class="team_wrapper wrapper">
+    <div class="container">
+      <div class="row">
+      </div>
+      <div class="row">
+        <div class="col-xl-4 col-md-4 col-sm-6 mb-4">
+          <div class="card rounded-3">
+            <div class="team-img">
+              <img src="assets/imagenes/krida.jpg" class="img-fluid">
+            </div>
+            <div class="team-info pt-4 text-center">
+              <h5>Frida</h5>
+              <p>Autorretrato con chango y loro, 1942</p>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div id="texto" class="col-xl-8 col-md-8 col-sm-6 ps-md-4 pt-sm-0 pt-4">
+          <h4>Frida</h4>
+          <p>“Autorretrato con chango y loro fue realizado a principios de la década de 1940, cuando Frida Kahlo, tras
+            haber adquirido fama internacional mediante exposiciones en Nueva York y París, estaba tratando de acelerar
+            su producción para vivir de la pintura. La obra sigue un formato compositivo estándar empleado en los
+            retratos y autorretratos de comienzos de los años 20: el sujeto, visto de la cintura o el pecho para arriba,
+            ocupa un estrecho espacio entre el plano del cuadro y una pared de vegetación que a veces llega hasta los
+            bordes. En la mayoría de estos autorretratos, la posición de Kahlo solo varía ligeramente; aquí, exactamente
+            como en Self-Portrait with Monkey [Autorretrato con mono] (1940, colección privada), parece volverse un poco
+            hacia su derecha: si se trata de una imagen en espejo, en realidad rota hacia la izquierda y gira los ojos
+            para mirar hacia adelante; pero es más probable que la artista haya pintado sus retratos a partir de
+            fotografías.1 Su vestimenta y su peinado, el mono y el pájaro que la acompañan, así como el fondo, merecen
+            todos un cuidadoso análisis, ya que conectan la obra con otras pinturas relacionadas, pero también la
+            distinguen de composiciones similares.”</p>
+        </div>
+      </div>
+    </div>
+    <div class="con text-center">
+      <img id="im" src="assets/imagenes/planovisita.jpg" alt="">
+    </div>
+  </section>
+  
+  <script src="assets/js/java.js"></script>
+  <script src="https://kit.fontawesome.com/b3b892b65b.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
