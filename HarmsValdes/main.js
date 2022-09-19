@@ -1,7 +1,7 @@
 function empezar_obtenerCantidadTurnosTomados(){
     let ajax=new XMLHttpRequest();
     let metodo="GET";
-    let url="index.php?consulta=obtenerCantidadTurnosTomados&id_recorrido=" + document.getElementById("id_recorrido").value;
+    let url="https://www.olimpiadaset32.000webhostapp.com/index.php?consulta=" + document.getElementById("id_recorrido").value;
     ajax.open(metodo,url);
     ajax.send();
     ajax.addEventListener("load",mostrarDatos);
@@ -9,7 +9,7 @@ function empezar_obtenerCantidadTurnosTomados(){
 
     function mostrarDatos(){
       let parseado=JSON.parse(ajax.responseText);
-
+        
         console.log(parseado);
     }
     
@@ -21,7 +21,7 @@ function empezar_obtenerCantidadTurnosTomados(){
  function empezarObtenerRecorridos(){
     let ajax=new XMLHttpRequest();
     let metodo="GET";
-    let url="index.php?consulta=obtenerRecorridos";
+    let url="https://www.olimpiadaset32.000webhostapp.com/index.php?consulta=obtenerRecorridos";
     ajax.open(metodo,url);
     ajax.send();
     ajax.addEventListener("load",mostrarDatos);
@@ -41,7 +41,7 @@ function empezar_obtenerCantidadTurnosTomados(){
  function empezarObtenerTurnosUsuario(){
     let ajax=new XMLHttpRequest();
     let metodo="GET";
-    let url="index.php?consulta=obtenerTurnosUsuario&id_usuario=" + document.getElementById("id_usuario").value;
+    let url="https://www.olimpiadaset32.000webhostapp.com/index.php?consulta=obtenerTurnosUsuario&id_usuario=" + document.getElementById("id_usuario").value;
     ajax.open(metodo,url);
     ajax.send();
     ajax.addEventListener("load",mostrarDatos);
@@ -61,7 +61,7 @@ function empezar_obtenerCantidadTurnosTomados(){
  function empezarObtenerTurnosDisponibles(){
     let ajax=new XMLHttpRequest();
     let metodo="GET";
-    let url="index.php?consulta=obtenerTurnosDisponibles";
+    let url="https://www.olimpiadaset32.000webhostapp.com/index.php?consulta=obtenerTurnosDisponibles";
     ajax.open(metodo,url);
     ajax.send();
     ajax.addEventListener("load",mostrarDatos);
@@ -81,7 +81,7 @@ function empezar_obtenerCantidadTurnosTomados(){
  function empezarInsertarRecorrido(){
     let ajax=new XMLHttpRequest();
     let metodo="GET";
-    let url="index.php?consulta=insertarRecorrido&obras=" + document.getElementById("obras").value + "&tematica=" + 
+    let url="https://www.olimpiadaset32.000webhostapp.com/index.php?consulta=insertarRecorrido&obras=" + document.getElementById("obras").value + "&tematica=" + 
     document.getElementById("tematica").value + "&duracion=" + document.getElementById("duracion").value;
     ajax.open(metodo,url);
     ajax.send();
@@ -101,7 +101,7 @@ function empezar_obtenerCantidadTurnosTomados(){
  function empezarInsertarActividad(){
     let ajax=new XMLHttpRequest();
     let metodo="GET";
-    let url="index.php?consulta=insertarActividad&nombre_actividad=" + document.getElementById("nombreActividad").value;
+    let url="https://www.olimpiadaset32.000webhostapp.com/index.php?consulta=insertarActividad&nombre_actividad=" + document.getElementById("nombreActividad").value;
     ajax.open(metodo,url);
     ajax.send();
     ajax.addEventListener("load",mostrarDatos);
@@ -120,7 +120,7 @@ function empezar_obtenerCantidadTurnosTomados(){
  function empezarInsertarTurno(){
     let ajax=new XMLHttpRequest();
     let metodo="GET";
-    let url="index.php?consulta=insertarTurno&id_usuario=" + document.getElementById("id_usuario").value + "&id_recorrido=" + 
+    let url="https://www.olimpiadaset32.000webhostapp.com/index.php?consulta=insertarTurno&id_usuario=" + document.getElementById("id_usuario").value + "&id_recorrido=" + 
     document.getElementById("id_recorrido").value;
     ajax.open(metodo,url);
     ajax.send();
@@ -140,7 +140,7 @@ function empezar_obtenerCantidadTurnosTomados(){
  function empezarAgregarRegistros(){
     let ajax=new XMLHttpRequest();
     let metodo="GET";
-    let url="index.php?consulta=agregarRegistros&nombre="+ "dsadasasas" + "&apellido=" + 
+    let url="https://www.olimpiadaset32.000webhostapp.com/index.php?consulta=agregarRegistros&nombre="+ "dsadasasas" + "&apellido=" + 
     "lopez" + "&telefono=" + "sadsadasdasdasdasdasd" + "&mail=" + 
     "lopez@gmfsdf.com" +  "&password=" + "gfsdgdghdfhdfhhdfdfh";
     ajax.open(metodo,url);
@@ -162,7 +162,7 @@ function empezar_obtenerCantidadTurnosTomados(){
  function empezarLogin(){
     let ajax=new XMLHttpRequest();
     let metodo="GET";
-    let url="index.php?consulta=login&mail=" + "lucas@gmail.com" + "&password=" + 
+    let url="https://www.olimpiadaset32.000webhostapp.com/index.php?consulta=login&mail=" + "lucas@gmail.com" + "&password=" + 
     "12345";
     ajax.open(metodo,url);
     ajax.send();
